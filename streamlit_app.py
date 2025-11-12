@@ -896,8 +896,8 @@ st.markdown("""
 ║                                ██████  ███████  ██████                       ║
 ║                                                                               ║
 ║                                                                               ║
-║                  MUSIC INDUSTRY INTELLIGENCE TERMINAL v1.0                    ║
-║                  ═════════════════════════════════════════                    ║
+║               MUSIC INDUSTRY INTELLIGENCE TERMINAL v1.0                       ║
+║               ═════════════════════════════════════════                       ║
 ║                                                                               ║
 ║  SYSTEM: 67 YEARS BILLBOARD HOT 100 DATA | 11,091 ARTISTS | 99.5% COVERAGE   ║
 ║                                                                               ║
