@@ -15,25 +15,25 @@ import re
 from musicbrainz_credits import MusicBrainzCredits
 from genre_forecaster import GenreForecaster
 
-# Type.chat inspired color palette
+# 80s Trading Terminal Color Palette - Green Monochrome
 COLORS = {
-    'primary': '#bf8256',      # Warm brown
-    'secondary': '#ffa770',    # Light orange
-    'accent': '#e6c08e',       # Gold
-    'tertiary': '#d4956c',     # Medium tan
-    'quaternary': '#8B4513',   # Saddle brown
-    'quinary': '#CD853F',      # Peru
-    'senary': '#DEB887',       # Burlywood
+    'primary': '#00ff00',      # Bright green (primary text)
+    'secondary': '#00cc00',    # Medium green
+    'accent': '#00aa00',       # Dark green
+    'dim': '#008800',          # Dimmer green
+    'background': '#000000',   # Pure black
+    'grid': '#003300',         # Very dark green for borders
 }
 
+# Chart colors - various shades of green for different genres
 CHART_COLORS = [
-    '#ffa770',  # Light orange - Hip-Hop
-    '#bf8256',  # Warm brown - Pop
-    '#e6c08e',  # Gold - Country
-    '#d4956c',  # Medium tan - R&B
-    '#CD853F',  # Peru - Rock
-    '#8B4513',  # Saddle brown - Alternative
-    '#DEB887',  # Burlywood - Latin
+    '#00ff00',  # Bright green - Hip-Hop
+    '#00dd00',  # Green - Pop
+    '#00bb00',  # Med green - Country
+    '#00aa00',  # Dark green - R&B
+    '#009900',  # Darker green - Rock
+    '#008800',  # Dim green - Alternative
+    '#00ff66',  # Blue-green - Latin
 ]
 
 # Page config
@@ -44,16 +44,22 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-# Custom CSS - Type.chat inspired dark theme with chat interface
+# Custom CSS - 80s Bloomberg Terminal / MS-DOS Style
 st.markdown("""
 <style>
-    /* Dark mode base */
-    .stApp {
-        background-color: #000000 !important;
-        color: #fffcfa;
+    /* Import DOS-style monospace font */
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap');
+
+    /* Base terminal styling */
+    * {
+        font-family: 'IBM Plex Mono', 'Courier New', monospace !important;
     }
 
-    /* Force all backgrounds to black */
+    .stApp {
+        background-color: #000000 !important;
+        color: #00ff00;
+    }
+
     body {
         background-color: #000000 !important;
     }
@@ -78,47 +84,57 @@ st.markdown("""
         background-color: #000000 !important;
     }
 
-    /* Hide sidebar */
     [data-testid="stSidebar"] {
         display: none;
     }
 
-    /* Header styling */
+    /* Terminal header with ASCII borders */
     .main-header {
-        font-size: 4rem;
-        font-weight: 300;
-        color: #fffcfa;
+        font-size: 3rem;
+        font-weight: 700;
+        color: #00ff00;
         text-align: center;
         margin-bottom: 0.5rem;
-        letter-spacing: -0.02em;
+        letter-spacing: 0.3em;
+        text-shadow: 0 0 10px #00ff00;
+        font-family: 'IBM Plex Mono', monospace !important;
     }
 
     .sub-header {
-        font-size: 1.3rem;
-        color: #bf8256;
+        font-size: 1rem;
+        color: #00cc00;
         text-align: center;
         margin-bottom: 1rem;
-        font-weight: 300;
+        font-weight: 400;
+        letter-spacing: 0.2em;
     }
 
     .description {
-        font-size: 1.1rem;
-        color: #fffcfa;
+        font-size: 0.9rem;
+        color: #00ff00;
         text-align: center !important;
         margin-bottom: 2rem;
-        font-weight: 300;
+        font-weight: 400;
         max-width: 800px;
         margin-left: auto !important;
         margin-right: auto !important;
-        line-height: 1.6;
+        line-height: 1.8;
         display: block !important;
     }
 
-    /* Example queries */
+    /* DOS-style bordered boxes */
+    .terminal-box {
+        border: 2px solid #00ff00;
+        padding: 1rem;
+        margin: 1rem 0;
+        background-color: #000000;
+    }
+
+    /* Example queries - DOS buttons */
     .example-container {
         display: flex;
         flex-wrap: wrap;
-        gap: 0.75rem;
+        gap: 0.5rem;
         justify-content: center;
         margin-bottom: 2rem;
         max-width: 900px;
@@ -127,24 +143,23 @@ st.markdown("""
     }
 
     .example-query {
-        background: rgba(191, 130, 86, 0.08);
-        padding: 0.75rem 1.25rem;
-        border-radius: 1.5rem;
-        border: 1px solid rgba(191, 130, 86, 0.2);
-        backdrop-filter: blur(10px);
-        color: #e6c08e;
-        font-size: 0.95rem;
+        background: #000000;
+        padding: 0.5rem 1rem;
+        border: 2px solid #00ff00;
+        color: #00ff00;
+        font-size: 0.8rem;
         cursor: pointer;
-        transition: all 0.2s;
+        transition: all 0.1s;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
     }
 
     .example-query:hover {
-        background: rgba(191, 130, 86, 0.15);
-        border-color: rgba(191, 130, 86, 0.4);
-        transform: translateY(-2px);
+        background: #00ff00;
+        color: #000000;
     }
 
-    /* Chat messages */
+    /* Chat messages - terminal style */
     .chat-container {
         max-width: 1000px;
         margin: 0 auto 2rem auto;
@@ -152,136 +167,145 @@ st.markdown("""
     }
 
     .user-message {
-        background: rgba(191, 130, 86, 0.08);
-        padding: 1.25rem;
-        border-radius: 1.5rem;
-        border: 1px solid rgba(191, 130, 86, 0.2);
+        background: #000000;
+        padding: 1rem;
+        border: 2px solid #00ff00;
         margin-bottom: 1rem;
-        color: #fffcfa;
-        backdrop-filter: blur(10px);
+        color: #00ff00;
+        position: relative;
+    }
+
+    .user-message::before {
+        content: '> ';
+        color: #00ff00;
+        font-weight: bold;
     }
 
     .assistant-message {
-        background: rgba(255, 167, 112, 0.05);
-        padding: 1.25rem;
-        border-radius: 1.5rem;
-        border: 1px solid rgba(255, 167, 112, 0.15);
+        background: #000000;
+        padding: 1rem;
+        border: 1px solid #008800;
+        border-left: 4px solid #00ff00;
         margin-bottom: 1rem;
-        color: #fffcfa;
-        backdrop-filter: blur(10px);
+        color: #00ff00;
     }
 
-    /* Text input styling */
+    /* Text input - terminal style */
     .stTextInput input {
-        background: rgba(191, 130, 86, 0.08) !important;
-        border: 1px solid rgba(191, 130, 86, 0.2) !important;
-        border-radius: 1.5rem !important;
-        color: #fffcfa !important;
+        background: #000000 !important;
+        border: 2px solid #00ff00 !important;
+        border-radius: 0 !important;
+        color: #00ff00 !important;
         font-size: 1rem !important;
-        padding: 1rem 1.5rem !important;
+        padding: 0.75rem !important;
+        font-family: 'IBM Plex Mono', monospace !important;
     }
 
     .stTextInput input:focus {
-        border-color: rgba(191, 130, 86, 0.4) !important;
-        box-shadow: 0 0 0 1px rgba(191, 130, 86, 0.2) !important;
+        border-color: #00ff00 !important;
+        box-shadow: 0 0 10px #00ff00 !important;
+        outline: none !important;
     }
 
     .stTextInput input::placeholder {
-        color: rgba(255, 252, 250, 0.5) !important;
+        color: #008800 !important;
     }
 
-    /* Headers */
+    /* Headers - DOS style */
     h1, h2, h3 {
-        color: #fffcfa !important;
-        font-weight: 300;
+        color: #00ff00 !important;
+        font-weight: 700 !important;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
     }
 
     /* Text */
     p, span, div {
-        color: #fffcfa;
+        color: #00ff00;
     }
 
-    /* Dataframe styling */
+    /* Dataframe - green terminal grid */
     .dataframe {
-        background: rgba(191, 130, 86, 0.05) !important;
-        border-radius: 1rem;
-        border: 1px solid rgba(191, 130, 86, 0.2);
+        background: #000000 !important;
+        border: 2px solid #00ff00;
     }
 
     .dataframe th {
-        background: rgba(191, 130, 86, 0.15) !important;
-        color: #e6c08e !important;
-        border: none !important;
-        padding: 1rem !important;
+        background: #000000 !important;
+        color: #00ff00 !important;
+        border: 1px solid #008800 !important;
+        padding: 0.5rem !important;
+        text-transform: uppercase;
+        font-weight: 700;
     }
 
     .dataframe td {
-        color: #fffcfa !important;
-        border-color: rgba(191, 130, 86, 0.1) !important;
-        padding: 0.75rem 1rem !important;
+        color: #00ff00 !important;
+        border: 1px solid #003300 !important;
+        padding: 0.5rem !important;
     }
 
-    /* Metrics */
+    /* Metrics - DOS style boxes */
     .stMetric {
-        background: rgba(191, 130, 86, 0.08);
-        padding: 1.5rem;
-        border-radius: 1.5rem;
-        border: 1px solid rgba(191, 130, 86, 0.2);
-        backdrop-filter: blur(10px);
+        background: #000000;
+        padding: 1rem;
+        border: 2px solid #00ff00;
     }
 
     .stMetric label {
-        color: #bf8256 !important;
-        font-weight: 500;
+        color: #00ff00 !important;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
     }
 
     .stMetric [data-testid="stMetricValue"] {
-        color: #fffcfa !important;
+        color: #00ff00 !important;
         font-size: 2rem;
+        text-shadow: 0 0 5px #00ff00;
     }
 
-    /* Button styling - remove all blue */
+    /* Button styling - DOS buttons */
     .stButton button {
-        background-color: rgba(191, 130, 86, 0.08) !important;
-        color: #e6c08e !important;
-        border: 1px solid rgba(191, 130, 86, 0.2) !important;
-        border-radius: 1.5rem !important;
+        background-color: #000000 !important;
+        color: #00ff00 !important;
+        border: 2px solid #00ff00 !important;
+        border-radius: 0 !important;
         padding: 0.5rem 1rem !important;
-        transition: all 0.2s !important;
+        transition: all 0.1s !important;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        font-weight: 700;
     }
 
     .stButton button:hover {
-        background-color: rgba(191, 130, 86, 0.15) !important;
-        border-color: rgba(191, 130, 86, 0.4) !important;
-        color: #ffa770 !important;
+        background-color: #00ff00 !important;
+        color: #000000 !important;
     }
 
     .stButton button:focus {
-        border-color: rgba(191, 130, 86, 0.4) !important;
-        box-shadow: none !important;
+        border-color: #00ff00 !important;
+        box-shadow: 0 0 10px #00ff00 !important;
     }
 
-    /* Remove blue from links */
+    /* Links */
     a, a:visited, a:hover, a:active {
-        color: #ffa770 !important;
-        text-decoration: none !important;
+        color: #00ff00 !important;
+        text-decoration: underline !important;
     }
 
     a:hover {
-        color: #e6c08e !important;
+        text-shadow: 0 0 5px #00ff00;
     }
 
-    /* Remove blue from all default Streamlit elements */
     [data-testid="stMarkdownContainer"] a {
-        color: #ffa770 !important;
+        color: #00ff00 !important;
     }
 
-    /* Override any remaining blue */
     * {
-        accent-color: #bf8256 !important;
+        accent-color: #00ff00 !important;
     }
 
-    /* Force all container backgrounds to black */
     div[class*="block-container"] {
         background-color: #000000 !important;
     }
@@ -290,12 +314,7 @@ st.markdown("""
         background-color: #000000 !important;
     }
 
-    /* Make all divs inherit black unless they have specific styling */
-    div:not([class*="user-message"]):not([class*="assistant-message"]):not([class*="example-query"]) {
-        background-color: transparent !important;
-    }
-
-    /* Plotly chart backgrounds */
+    /* Plotly chart backgrounds - terminal black */
     .js-plotly-plot {
         background-color: #000000 !important;
     }
@@ -304,9 +323,28 @@ st.markdown("""
         background-color: #000000 !important;
     }
 
-    /* Remove any gradient or image backgrounds */
     .stApp::before {
         background: none !important;
+    }
+
+    /* Scrollbar styling - green on black */
+    ::-webkit-scrollbar {
+        width: 12px;
+        background: #000000;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: #000000;
+        border: 1px solid #003300;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: #00ff00;
+        border: 2px solid #000000;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #00cc00;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -490,10 +528,10 @@ def process_query(query):
         )
         fig.update_layout(
             template="plotly_dark",
-            paper_bgcolor='rgba(0,0,0,0)',
-            plot_bgcolor='rgba(0,0,0,0)',
-            font=dict(color='#fffcfa', size=14),
-            title_font=dict(color='#e6c08e', size=20)
+            paper_bgcolor='#000000',
+            plot_bgcolor='#000000',
+            font=dict(family='IBM Plex Mono, monospace', color='#00ff00', size=12),
+            title_font=dict(family='IBM Plex Mono, monospace', color='#00ff00', size=16, weight=700)
         )
 
         return response, fig
@@ -522,8 +560,8 @@ def process_query(query):
             year2_values = [comparison[g]['year2'] for g in genres]
 
             fig = go.Figure(data=[
-                go.Bar(name=str(year1), x=genres, y=year1_values, marker_color='#ffa770'),
-                go.Bar(name=str(year2), x=genres, y=year2_values, marker_color='#e6c08e')
+                go.Bar(name=str(year1), x=genres, y=year1_values, marker_color='#00ff00'),
+                go.Bar(name=str(year2), x=genres, y=year2_values, marker_color='#00aa00')
             ])
 
             fig.update_layout(
@@ -532,12 +570,12 @@ def process_query(query):
                 yaxis_title="Percentage",
                 barmode='group',
                 template="plotly_dark",
-                paper_bgcolor='rgba(0,0,0,0)',
-                plot_bgcolor='rgba(0,0,0,0)',
-                font=dict(color='#fffcfa', size=14),
-                title_font=dict(color='#e6c08e', size=20),
-                xaxis=dict(gridcolor='rgba(191, 130, 86, 0.1)'),
-                yaxis=dict(gridcolor='rgba(191, 130, 86, 0.1)')
+                paper_bgcolor='#000000',
+                plot_bgcolor='#000000',
+                font=dict(family='IBM Plex Mono, monospace', color='#00ff00', size=12),
+                title_font=dict(family='IBM Plex Mono, monospace', color='#00ff00', size=16, weight=700),
+                xaxis=dict(gridcolor='#003300'),
+                yaxis=dict(gridcolor='#003300')
             )
 
             return response, fig
@@ -586,16 +624,17 @@ def process_query(query):
             hovermode='x unified',
             height=500,
             template="plotly_dark",
-            paper_bgcolor='rgba(0,0,0,0)',
-            plot_bgcolor='rgba(0,0,0,0)',
-            font=dict(color='#fffcfa', size=14),
-            title_font=dict(color='#e6c08e', size=20),
-            xaxis=dict(gridcolor='rgba(191, 130, 86, 0.1)'),
-            yaxis=dict(gridcolor='rgba(191, 130, 86, 0.1)'),
+            paper_bgcolor='#000000',
+            plot_bgcolor='#000000',
+            font=dict(family='IBM Plex Mono, monospace', color='#00ff00', size=12),
+            title_font=dict(family='IBM Plex Mono, monospace', color='#00ff00', size=16, weight=700),
+            xaxis=dict(gridcolor='#003300'),
+            yaxis=dict(gridcolor='#003300'),
             legend=dict(
-                bgcolor='rgba(191, 130, 86, 0.08)',
-                bordercolor='rgba(191, 130, 86, 0.2)',
-                borderwidth=1
+                bgcolor='#000000',
+                bordercolor='#00ff00',
+                borderwidth=2,
+                font=dict(color='#00ff00')
             )
         )
 
@@ -690,8 +729,8 @@ def process_query(query):
                 y=forecasts,
                 mode='lines+markers',
                 name='Forecast',
-                line=dict(color='#ffa770', width=3),
-                marker=dict(size=8)
+                line=dict(color='#00ff00', width=3),
+                marker=dict(size=8, color='#00ff00')
             ))
 
             # Add confidence interval
@@ -699,8 +738,8 @@ def process_query(query):
                 x=quarters_list + quarters_list[::-1],
                 y=upper_bounds + lower_bounds[::-1],
                 fill='toself',
-                fillcolor='rgba(255, 167, 112, 0.2)',
-                line=dict(color='rgba(255,255,255,0)'),
+                fillcolor='rgba(0, 255, 0, 0.1)',
+                line=dict(color='rgba(0,255,0,0)'),
                 showlegend=True,
                 name='95% Confidence'
             ))
@@ -710,16 +749,17 @@ def process_query(query):
                 xaxis_title="Quarter",
                 yaxis_title="Market Share (%)",
                 template="plotly_dark",
-                paper_bgcolor='rgba(0,0,0,0)',
-                plot_bgcolor='rgba(0,0,0,0)',
-                font=dict(color='#fffcfa', size=14),
-                title_font=dict(color='#e6c08e', size=20),
-                xaxis=dict(gridcolor='rgba(191, 130, 86, 0.1)'),
-                yaxis=dict(gridcolor='rgba(191, 130, 86, 0.1)'),
+                paper_bgcolor='#000000',
+                plot_bgcolor='#000000',
+                font=dict(family='IBM Plex Mono, monospace', color='#00ff00', size=12),
+                title_font=dict(family='IBM Plex Mono, monospace', color='#00ff00', size=16, weight=700),
+                xaxis=dict(gridcolor='#003300'),
+                yaxis=dict(gridcolor='#003300'),
                 legend=dict(
-                    bgcolor='rgba(191, 130, 86, 0.08)',
-                    bordercolor='rgba(191, 130, 86, 0.2)',
-                    borderwidth=1
+                    bgcolor='#000000',
+                    bordercolor='#00ff00',
+                    borderwidth=2,
+                    font=dict(color='#00ff00')
                 ),
                 height=500
             )
@@ -836,14 +876,31 @@ def process_query(query):
 
 What would you like to know?""", None
 
-# Header
-st.markdown('<h1 class="main-header">Dōsatsu</h1>', unsafe_allow_html=True)
-st.markdown('<p class="sub-header">Music Industry Intelligence Platform</p>', unsafe_allow_html=True)
-st.markdown(
-    '<p class="description">Ask me anything about 67 years of Billboard Hot 100 data. '
-    'I can show you current charts, compare different eras, track genre evolution, and search 11,000+ artists.</p>',
-    unsafe_allow_html=True
-)
+# Header with ASCII art border
+st.markdown("""
+<div style="text-align: center; color: #00ff00; font-family: 'IBM Plex Mono', monospace;">
+<pre style="line-height: 1.2; font-size: 0.8rem;">
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║                      ▓█████▄  ▒█████    ██████  ▄▄▄     ▄▄▄█████▓  ██████    ║
+║                      ▒██▀ ██▌▒██▒  ██▒▒██    ▒ ▒████▄   ▓  ██▒ ▓▒▒██    ▒    ║
+║                      ░██   █▌▒██░  ██▒░ ▓██▄   ▒██  ▀█▄ ▒ ▓██░ ▒░░ ▓██▄      ║
+║                      ░▓█▄   ▌▒██   ██░  ▒   ██▒░██▄▄▄▄██░ ▓██▓ ░   ▒   ██▒   ║
+║                      ░▒████▓ ░ ████▓▒░▒██████▒▒ ▓█   ▓██▒ ▒██▒ ░ ▒██████▒▒   ║
+║                       ▒▒▓  ▒ ░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░ ▒▒   ▓▒█░ ▒ ░░   ▒ ▒▓▒ ▒ ░   ║
+║                       ░ ▒  ▒   ░ ▒ ▒░ ░ ░▒  ░ ░  ▒   ▒▒ ░   ░    ░ ░▒  ░ ░   ║
+║                       ░ ░  ░ ░ ░ ░ ▒  ░  ░  ░    ░   ▒    ░      ░  ░  ░     ║
+║                         ░        ░ ░        ░        ░  ░              ░     ║
+║                                                                               ║
+║                     MUSIC INDUSTRY INTELLIGENCE TERMINAL v1.0                 ║
+║                     ═════════════════════════════════════════                 ║
+║                                                                               ║
+║  SYSTEM: 67 YEARS BILLBOARD HOT 100 DATA | 11,091 ARTISTS | 99.5% COVERAGE   ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+</pre>
+</div>
+""", unsafe_allow_html=True)
 
 # Chat input - using text_input for better positioning control
 col1, col2 = st.columns([5, 1])
