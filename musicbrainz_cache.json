@@ -1,0 +1,241 @@
+{
+  "The Supremes": {
+    "name": "The Supremes",
+    "mbid": "c1aa2ec9-53e7-4d90-8d36-bac75832e986",
+    "tags": [
+      "soul",
+      "aln-sh",
+      "disco",
+      "girl group",
+      "motown",
+      "pop",
+      "pop soul",
+      "psychedelic soul",
+      "r&b"
+    ],
+    "dosatsu_genre": "R&B",
+    "source": "musicbrainz"
+  },
+  "The Beatles": {
+    "name": "The Beatles",
+    "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+    "tags": [
+      "rock",
+      "pop",
+      "british",
+      "pop rock",
+      "psychedelic pop",
+      "merseybeat",
+      "british invasion",
+      "60s",
+      "psychedelic rock",
+      "classic rock"
+    ],
+    "dosatsu_genre": "Rock",
+    "source": "musicbrainz"
+  },
+  "Elvis Presley": {
+    "name": "Elvis Presley",
+    "mbid": "01809552-4f87-45b0-afff-2c6f0730a3be",
+    "tags": [
+      "rockabilly",
+      "rock and roll",
+      "country",
+      "pop",
+      "rock",
+      "blue-eyed soul",
+      "blues",
+      "gospel",
+      "film soundtrack",
+      "rock & roll"
+    ],
+    "dosatsu_genre": "Rock",
+    "source": "musicbrainz"
+  },
+  "Aretha Franklin": {
+    "name": "Aretha Franklin",
+    "mbid": "2f9ecbed-27be-40e6-abca-6de49d50299e",
+    "tags": [
+      "soul",
+      "gospel",
+      "deep soul",
+      "southern soul",
+      "aln-sh",
+      "jazz",
+      "quiet storm",
+      "r&b",
+      "rhythm & blues"
+    ],
+    "dosatsu_genre": "R&B",
+    "source": "musicbrainz"
+  },
+  "James Brown": {
+    "name": "James Brown",
+    "mbid": "20ff3303-4fe2-4a47-a1b6-291e26aa3438",
+    "tags": [
+      "soul",
+      "funk",
+      "film soundtrack",
+      "disco",
+      "rhythm & blues",
+      "blues",
+      "christmas music"
+    ],
+    "dosatsu_genre": "R&B",
+    "source": "musicbrainz"
+  },
+  "The Rolling Stones": {
+    "name": "The Rolling Stones",
+    "mbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+    "tags": [
+      "rock",
+      "blues rock",
+      "british",
+      "psychedelic rock",
+      "classic rock",
+      "british rhythm & blues",
+      "pop rock",
+      "rock and roll",
+      "blues",
+      "rock & roll"
+    ],
+    "dosatsu_genre": "Rock",
+    "source": "musicbrainz"
+  },
+  "Led Zeppelin": {
+    "name": "Led Zeppelin",
+    "mbid": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+    "tags": [
+      "hard rock",
+      "rock",
+      "blues rock",
+      "classic rock",
+      "british",
+      "folk rock",
+      "heavy metal",
+      "arena rock",
+      "progressive rock"
+    ],
+    "dosatsu_genre": "Rock",
+    "source": "musicbrainz"
+  },
+  "Queen": {
+    "name": "Queen",
+    "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+    "tags": [
+      "rock",
+      "glam rock",
+      "hard rock",
+      "art rock",
+      "british",
+      "pop rock",
+      "classic rock",
+      "symphonic rock",
+      "progressive rock",
+      "beholder"
+    ],
+    "dosatsu_genre": "Rock",
+    "source": "musicbrainz"
+  },
+  "Michael Jackson": {
+    "name": "Michael Jackson",
+    "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+    "tags": [
+      "pop",
+      "dance-pop",
+      "disco",
+      "contemporary r&b",
+      "pop soul",
+      "post-disco",
+      "soul",
+      "new jack swing",
+      "pop rock",
+      "r&b"
+    ],
+    "dosatsu_genre": "R&B",
+    "source": "musicbrainz"
+  },
+  "Prince": {
+    "name": "Prince",
+    "mbid": "070d193a-845c-479f-980e-bef15710653e",
+    "tags": [
+      "funk",
+      "contemporary r&b",
+      "pop",
+      "funk rock",
+      "rock",
+      "synth funk",
+      "minneapolis sound",
+      "pop rock",
+      "psychedelic soul",
+      "dance-pop"
+    ],
+    "dosatsu_genre": "R&B",
+    "source": "musicbrainz"
+  },
+  "20 Fingers Featuring Gillette": null,
+  "Andrew Seeley & Vanessa Anne Hudgens": null,
+  "Andy Gibb & Victoria Principal": null,
+  "Anna King-Bobby Byrd": null,
+  "Ariana Grande & Nathan Sykes": null,
+  "Ashlee Simpson With Tom Higgenson": null,
+  "Baha Men With Imani Coppola": null,
+  "Beckmeier Brothers": null,
+  "Bill Amesbury": null,
+  "Bill Medley & Jennifer Warnes": null,
+  "Christopher Paul And Shawn": null,
+  "Christopher Wilde & Anna Margaret": null,
+  "Clint Black With Steve Wariner": null,
+  "Clint Black With Wynonna": null,
+  "Eivets Rednow": {
+    "name": "Eivets Rednow",
+    "mbid": "85db5120-7b1d-4b18-be06-630840398fbc",
+    "tags": [
+      "soul"
+    ],
+    "dosatsu_genre": "R&B",
+    "source": "musicbrainz"
+  },
+  "Elvis Presley vs JXL": null,
+  "Fred Knoblock & Susan Anton": null,
+  "Frenship & Emily Warren": null,
+  "Garrett Hedlund & Leighton Meester": null,
+  "Googie Rene Combo": null,
+  "Green Shoe Studio Featuring Jacob Colgan & Fred Stobaugh": null,
+  "Idina Menzel Duet With Michael Buble": null,
+  "Israel \"Popper Stopper\" Tolbert": null,
+  "Jenny Burton & Patrick Jude": null,
+  "Jerry Wallace With The Jewels": null,
+  "Jesse Johnson's Revue": null,
+  "Jo Ann & Troy": null,
+  "Joel Corry X MNEK": null,
+  "John & Anne Ryder": null,
+  "John W. Anderson presents KaSandra": null,
+  "Justin Bieber, Cash Cobain & Eddie Benjamin": null,
+  "Liam Payne & Rita Ora": null,
+  "Lillywood & Robin Schulz": null,
+  "Long John Baldry & Kathi MacDonald": null,
+  "Marcy Levy & Robin Gibb": null,
+  "Michael Cera & Ellen Page": null,
+  "Mike Post featuring Larry Carlton": null,
+  "Patra Duet With Aaron Hall": null,
+  "Paul Anka-Geo. Hamilton IV-Johnny Nash": null,
+  "Paul Hyde & Payolas": null,
+  "Paula Abdul & Randy Jackson": null,
+  "Ray J & Yung Berg": null,
+  "Ross Lynch, Grace Phipps And Jason Evigan": null,
+  "Russell Dickerson & Jake Scott": null,
+  "Ryan Hurd With Maren Morris": null,
+  "Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee": null,
+  "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee": null,
+  "Seiko & Donnie Wahlberg": null,
+  "Senator Everett McKinley Dirksen": null,
+  "Sparks & Jane Wiedlin": null,
+  "Steve Dahl And Teenage Radiation": null,
+  "Sylvia And Ralfi Pagan": null,
+  "Ten Wheel Drive With Genya Ravan": null,
+  "Thomas Wayne With the Delons": null,
+  "Tom MacDonald X Ben Shapiro": null,
+  "Willis \"The Guard\" & Vigorish": null,
+  "Zara Larsson & MNEK": null
+}

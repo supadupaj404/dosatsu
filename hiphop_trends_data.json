@@ -1,0 +1,1829 @@
+[
+  {
+    "date": "2020-11-14",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2020",
+    "month": "11"
+  },
+  {
+    "date": "2020-11-21",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2020",
+    "month": "11"
+  },
+  {
+    "date": "2020-11-28",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2020",
+    "month": "11"
+  },
+  {
+    "date": "2020-12-05",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2020",
+    "month": "12"
+  },
+  {
+    "date": "2020-12-12",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2020",
+    "month": "12"
+  },
+  {
+    "date": "2020-12-19",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2020",
+    "month": "12"
+  },
+  {
+    "date": "2020-12-26",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2020",
+    "month": "12"
+  },
+  {
+    "date": "2021-01-02",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2021",
+    "month": "01"
+  },
+  {
+    "date": "2021-01-09",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2021",
+    "month": "01"
+  },
+  {
+    "date": "2021-01-16",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2021",
+    "month": "01"
+  },
+  {
+    "date": "2021-01-23",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2021",
+    "month": "01"
+  },
+  {
+    "date": "2021-01-30",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "01"
+  },
+  {
+    "date": "2021-02-06",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "02"
+  },
+  {
+    "date": "2021-02-13",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "02"
+  },
+  {
+    "date": "2021-02-20",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2021",
+    "month": "02"
+  },
+  {
+    "date": "2021-02-27",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "02"
+  },
+  {
+    "date": "2021-03-06",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "03"
+  },
+  {
+    "date": "2021-03-13",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "03"
+  },
+  {
+    "date": "2021-03-20",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "03"
+  },
+  {
+    "date": "2021-03-27",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2021",
+    "month": "03"
+  },
+  {
+    "date": "2021-04-03",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2021",
+    "month": "04"
+  },
+  {
+    "date": "2021-04-10",
+    "percentage": 22.5,
+    "count": 9,
+    "year": "2021",
+    "month": "04"
+  },
+  {
+    "date": "2021-04-17",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2021",
+    "month": "04"
+  },
+  {
+    "date": "2021-04-24",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2021",
+    "month": "04"
+  },
+  {
+    "date": "2021-05-01",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "05"
+  },
+  {
+    "date": "2021-05-08",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2021",
+    "month": "05"
+  },
+  {
+    "date": "2021-05-15",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "05"
+  },
+  {
+    "date": "2021-05-22",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "05"
+  },
+  {
+    "date": "2021-05-29",
+    "percentage": 30.0,
+    "count": 12,
+    "year": "2021",
+    "month": "05"
+  },
+  {
+    "date": "2021-06-05",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2021",
+    "month": "06"
+  },
+  {
+    "date": "2021-06-12",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2021",
+    "month": "06"
+  },
+  {
+    "date": "2021-06-19",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "06"
+  },
+  {
+    "date": "2021-06-26",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2021",
+    "month": "06"
+  },
+  {
+    "date": "2021-07-03",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2021",
+    "month": "07"
+  },
+  {
+    "date": "2021-07-10",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "07"
+  },
+  {
+    "date": "2021-07-17",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "07"
+  },
+  {
+    "date": "2021-07-24",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "07"
+  },
+  {
+    "date": "2021-07-31",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "07"
+  },
+  {
+    "date": "2021-08-07",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2021",
+    "month": "08"
+  },
+  {
+    "date": "2021-08-14",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "08"
+  },
+  {
+    "date": "2021-08-21",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "08"
+  },
+  {
+    "date": "2021-08-28",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "08"
+  },
+  {
+    "date": "2021-09-04",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "09"
+  },
+  {
+    "date": "2021-09-11",
+    "percentage": 35.0,
+    "count": 14,
+    "year": "2021",
+    "month": "09"
+  },
+  {
+    "date": "2021-09-18",
+    "percentage": 30.0,
+    "count": 12,
+    "year": "2021",
+    "month": "09"
+  },
+  {
+    "date": "2021-09-25",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2021",
+    "month": "09"
+  },
+  {
+    "date": "2021-10-02",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2021",
+    "month": "10"
+  },
+  {
+    "date": "2021-10-09",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2021",
+    "month": "10"
+  },
+  {
+    "date": "2021-10-16",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "10"
+  },
+  {
+    "date": "2021-10-23",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2021",
+    "month": "10"
+  },
+  {
+    "date": "2021-10-30",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2021",
+    "month": "10"
+  },
+  {
+    "date": "2021-11-06",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2021",
+    "month": "11"
+  },
+  {
+    "date": "2021-11-13",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2021",
+    "month": "11"
+  },
+  {
+    "date": "2021-11-20",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2021",
+    "month": "11"
+  },
+  {
+    "date": "2021-11-27",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2021",
+    "month": "11"
+  },
+  {
+    "date": "2021-12-04",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2021",
+    "month": "12"
+  },
+  {
+    "date": "2021-12-11",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2021",
+    "month": "12"
+  },
+  {
+    "date": "2021-12-18",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2021",
+    "month": "12"
+  },
+  {
+    "date": "2021-12-25",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2021",
+    "month": "12"
+  },
+  {
+    "date": "2022-01-01",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2022",
+    "month": "01"
+  },
+  {
+    "date": "2022-01-08",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2022",
+    "month": "01"
+  },
+  {
+    "date": "2022-01-15",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2022",
+    "month": "01"
+  },
+  {
+    "date": "2022-01-22",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2022",
+    "month": "01"
+  },
+  {
+    "date": "2022-01-29",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2022",
+    "month": "01"
+  },
+  {
+    "date": "2022-02-05",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "02"
+  },
+  {
+    "date": "2022-02-12",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "02"
+  },
+  {
+    "date": "2022-02-19",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "02"
+  },
+  {
+    "date": "2022-02-26",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2022",
+    "month": "02"
+  },
+  {
+    "date": "2022-03-05",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "03"
+  },
+  {
+    "date": "2022-03-12",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "03"
+  },
+  {
+    "date": "2022-03-19",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "03"
+  },
+  {
+    "date": "2022-03-26",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2022",
+    "month": "03"
+  },
+  {
+    "date": "2022-04-02",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "04"
+  },
+  {
+    "date": "2022-04-09",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "04"
+  },
+  {
+    "date": "2022-04-16",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "04"
+  },
+  {
+    "date": "2022-04-23",
+    "percentage": 22.5,
+    "count": 9,
+    "year": "2022",
+    "month": "04"
+  },
+  {
+    "date": "2022-04-30",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2022",
+    "month": "04"
+  },
+  {
+    "date": "2022-05-07",
+    "percentage": 22.5,
+    "count": 9,
+    "year": "2022",
+    "month": "05"
+  },
+  {
+    "date": "2022-05-14",
+    "percentage": 30.0,
+    "count": 12,
+    "year": "2022",
+    "month": "05"
+  },
+  {
+    "date": "2022-05-21",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2022",
+    "month": "05"
+  },
+  {
+    "date": "2022-05-28",
+    "percentage": 27.5,
+    "count": 11,
+    "year": "2022",
+    "month": "05"
+  },
+  {
+    "date": "2022-06-04",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "06"
+  },
+  {
+    "date": "2022-06-11",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "06"
+  },
+  {
+    "date": "2022-06-18",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "06"
+  },
+  {
+    "date": "2022-06-25",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "06"
+  },
+  {
+    "date": "2022-07-02",
+    "percentage": 32.5,
+    "count": 13,
+    "year": "2022",
+    "month": "07"
+  },
+  {
+    "date": "2022-07-09",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2022",
+    "month": "07"
+  },
+  {
+    "date": "2022-07-16",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "07"
+  },
+  {
+    "date": "2022-07-23",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "07"
+  },
+  {
+    "date": "2022-07-30",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "07"
+  },
+  {
+    "date": "2022-08-06",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "08"
+  },
+  {
+    "date": "2022-08-13",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "08"
+  },
+  {
+    "date": "2022-08-20",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "08"
+  },
+  {
+    "date": "2022-08-27",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "08"
+  },
+  {
+    "date": "2022-09-03",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2022",
+    "month": "09"
+  },
+  {
+    "date": "2022-09-10",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "09"
+  },
+  {
+    "date": "2022-09-17",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "09"
+  },
+  {
+    "date": "2022-09-24",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "09"
+  },
+  {
+    "date": "2022-10-01",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "10"
+  },
+  {
+    "date": "2022-10-08",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "10"
+  },
+  {
+    "date": "2022-10-15",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "10"
+  },
+  {
+    "date": "2022-10-22",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2022",
+    "month": "10"
+  },
+  {
+    "date": "2022-10-29",
+    "percentage": 25.0,
+    "count": 10,
+    "year": "2022",
+    "month": "10"
+  },
+  {
+    "date": "2022-11-05",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2022",
+    "month": "11"
+  },
+  {
+    "date": "2022-11-12",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2022",
+    "month": "11"
+  },
+  {
+    "date": "2022-11-19",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2022",
+    "month": "11"
+  },
+  {
+    "date": "2022-11-26",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2022",
+    "month": "11"
+  },
+  {
+    "date": "2022-12-03",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2022",
+    "month": "12"
+  },
+  {
+    "date": "2022-12-10",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2022",
+    "month": "12"
+  },
+  {
+    "date": "2022-12-17",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2022",
+    "month": "12"
+  },
+  {
+    "date": "2022-12-24",
+    "percentage": 25.0,
+    "count": 10,
+    "year": "2022",
+    "month": "12"
+  },
+  {
+    "date": "2022-12-31",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2022",
+    "month": "12"
+  },
+  {
+    "date": "2023-01-07",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2023",
+    "month": "01"
+  },
+  {
+    "date": "2023-01-14",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "01"
+  },
+  {
+    "date": "2023-01-21",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "01"
+  },
+  {
+    "date": "2023-01-28",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "01"
+  },
+  {
+    "date": "2023-02-04",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "02"
+  },
+  {
+    "date": "2023-02-11",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "02"
+  },
+  {
+    "date": "2023-02-18",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "02"
+  },
+  {
+    "date": "2023-02-25",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "02"
+  },
+  {
+    "date": "2023-03-04",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "03"
+  },
+  {
+    "date": "2023-03-11",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "03"
+  },
+  {
+    "date": "2023-03-18",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "03"
+  },
+  {
+    "date": "2023-03-25",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "03"
+  },
+  {
+    "date": "2023-04-01",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "04"
+  },
+  {
+    "date": "2023-04-08",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "04"
+  },
+  {
+    "date": "2023-04-15",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "04"
+  },
+  {
+    "date": "2023-04-22",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "04"
+  },
+  {
+    "date": "2023-04-29",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "04"
+  },
+  {
+    "date": "2023-05-06",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "05"
+  },
+  {
+    "date": "2023-05-13",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "05"
+  },
+  {
+    "date": "2023-05-20",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "05"
+  },
+  {
+    "date": "2023-05-27",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "05"
+  },
+  {
+    "date": "2023-06-03",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "06"
+  },
+  {
+    "date": "2023-06-10",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "06"
+  },
+  {
+    "date": "2023-06-17",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "06"
+  },
+  {
+    "date": "2023-06-24",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "06"
+  },
+  {
+    "date": "2023-07-01",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "07"
+  },
+  {
+    "date": "2023-07-08",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "07"
+  },
+  {
+    "date": "2023-07-15",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "07"
+  },
+  {
+    "date": "2023-07-22",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2023",
+    "month": "07"
+  },
+  {
+    "date": "2023-07-29",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "07"
+  },
+  {
+    "date": "2023-08-05",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "08"
+  },
+  {
+    "date": "2023-08-12",
+    "percentage": 27.5,
+    "count": 11,
+    "year": "2023",
+    "month": "08"
+  },
+  {
+    "date": "2023-08-19",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "08"
+  },
+  {
+    "date": "2023-08-26",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "08"
+  },
+  {
+    "date": "2023-09-02",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "09"
+  },
+  {
+    "date": "2023-09-09",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "09"
+  },
+  {
+    "date": "2023-09-16",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "09"
+  },
+  {
+    "date": "2023-09-23",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "09"
+  },
+  {
+    "date": "2023-09-30",
+    "percentage": 25.0,
+    "count": 10,
+    "year": "2023",
+    "month": "09"
+  },
+  {
+    "date": "2023-10-07",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "10"
+  },
+  {
+    "date": "2023-10-14",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "10"
+  },
+  {
+    "date": "2023-10-21",
+    "percentage": 37.5,
+    "count": 15,
+    "year": "2023",
+    "month": "10"
+  },
+  {
+    "date": "2023-10-28",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "10"
+  },
+  {
+    "date": "2023-11-04",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "11"
+  },
+  {
+    "date": "2023-11-11",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2023",
+    "month": "11"
+  },
+  {
+    "date": "2023-11-18",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2023",
+    "month": "11"
+  },
+  {
+    "date": "2023-11-25",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "11"
+  },
+  {
+    "date": "2023-12-02",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2023",
+    "month": "12"
+  },
+  {
+    "date": "2023-12-09",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "12"
+  },
+  {
+    "date": "2023-12-16",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2023",
+    "month": "12"
+  },
+  {
+    "date": "2023-12-23",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "12"
+  },
+  {
+    "date": "2023-12-30",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2023",
+    "month": "12"
+  },
+  {
+    "date": "2024-01-06",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2024",
+    "month": "01"
+  },
+  {
+    "date": "2024-01-13",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2024",
+    "month": "01"
+  },
+  {
+    "date": "2024-01-20",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2024",
+    "month": "01"
+  },
+  {
+    "date": "2024-01-27",
+    "percentage": 22.5,
+    "count": 9,
+    "year": "2024",
+    "month": "01"
+  },
+  {
+    "date": "2024-02-03",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2024",
+    "month": "02"
+  },
+  {
+    "date": "2024-02-10",
+    "percentage": 25.0,
+    "count": 10,
+    "year": "2024",
+    "month": "02"
+  },
+  {
+    "date": "2024-02-17",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2024",
+    "month": "02"
+  },
+  {
+    "date": "2024-02-24",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2024",
+    "month": "02"
+  },
+  {
+    "date": "2024-03-02",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2024",
+    "month": "03"
+  },
+  {
+    "date": "2024-03-09",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2024",
+    "month": "03"
+  },
+  {
+    "date": "2024-03-16",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2024",
+    "month": "03"
+  },
+  {
+    "date": "2024-03-23",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2024",
+    "month": "03"
+  },
+  {
+    "date": "2024-03-30",
+    "percentage": 25.0,
+    "count": 10,
+    "year": "2024",
+    "month": "03"
+  },
+  {
+    "date": "2024-04-06",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2024",
+    "month": "04"
+  },
+  {
+    "date": "2024-04-13",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2024",
+    "month": "04"
+  },
+  {
+    "date": "2024-04-20",
+    "percentage": 27.5,
+    "count": 11,
+    "year": "2024",
+    "month": "04"
+  },
+  {
+    "date": "2024-04-27",
+    "percentage": 22.5,
+    "count": 9,
+    "year": "2024",
+    "month": "04"
+  },
+  {
+    "date": "2024-05-04",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2024",
+    "month": "05"
+  },
+  {
+    "date": "2024-05-11",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2024",
+    "month": "05"
+  },
+  {
+    "date": "2024-05-18",
+    "percentage": 25.0,
+    "count": 10,
+    "year": "2024",
+    "month": "05"
+  },
+  {
+    "date": "2024-05-25",
+    "percentage": 27.5,
+    "count": 11,
+    "year": "2024",
+    "month": "05"
+  },
+  {
+    "date": "2024-06-01",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2024",
+    "month": "06"
+  },
+  {
+    "date": "2024-06-08",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2024",
+    "month": "06"
+  },
+  {
+    "date": "2024-06-15",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2024",
+    "month": "06"
+  },
+  {
+    "date": "2024-06-22",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2024",
+    "month": "06"
+  },
+  {
+    "date": "2024-06-29",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2024",
+    "month": "06"
+  },
+  {
+    "date": "2024-07-06",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2024",
+    "month": "07"
+  },
+  {
+    "date": "2024-07-13",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2024",
+    "month": "07"
+  },
+  {
+    "date": "2024-07-20",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2024",
+    "month": "07"
+  },
+  {
+    "date": "2024-07-27",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2024",
+    "month": "07"
+  },
+  {
+    "date": "2024-08-03",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2024",
+    "month": "08"
+  },
+  {
+    "date": "2024-08-10",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2024",
+    "month": "08"
+  },
+  {
+    "date": "2024-08-17",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2024",
+    "month": "08"
+  },
+  {
+    "date": "2024-08-24",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2024",
+    "month": "08"
+  },
+  {
+    "date": "2024-08-31",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2024",
+    "month": "08"
+  },
+  {
+    "date": "2024-09-07",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2024",
+    "month": "09"
+  },
+  {
+    "date": "2024-09-14",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2024",
+    "month": "09"
+  },
+  {
+    "date": "2024-09-21",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2024",
+    "month": "09"
+  },
+  {
+    "date": "2024-09-28",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2024",
+    "month": "09"
+  },
+  {
+    "date": "2024-10-05",
+    "percentage": 20.0,
+    "count": 8,
+    "year": "2024",
+    "month": "10"
+  },
+  {
+    "date": "2024-10-12",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2024",
+    "month": "10"
+  },
+  {
+    "date": "2024-10-19",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2024",
+    "month": "10"
+  },
+  {
+    "date": "2024-10-26",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2024",
+    "month": "10"
+  },
+  {
+    "date": "2024-11-02",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2024",
+    "month": "11"
+  },
+  {
+    "date": "2024-11-09",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2024",
+    "month": "11"
+  },
+  {
+    "date": "2024-11-16",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2024",
+    "month": "11"
+  },
+  {
+    "date": "2024-11-23",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2024",
+    "month": "11"
+  },
+  {
+    "date": "2024-11-30",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2024",
+    "month": "11"
+  },
+  {
+    "date": "2024-12-07",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2024",
+    "month": "12"
+  },
+  {
+    "date": "2024-12-14",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2024",
+    "month": "12"
+  },
+  {
+    "date": "2024-12-21",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2024",
+    "month": "12"
+  },
+  {
+    "date": "2024-12-28",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2024",
+    "month": "12"
+  },
+  {
+    "date": "2025-01-04",
+    "percentage": 0.0,
+    "count": 0,
+    "year": "2025",
+    "month": "01"
+  },
+  {
+    "date": "2025-01-11",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2025",
+    "month": "01"
+  },
+  {
+    "date": "2025-01-18",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2025",
+    "month": "01"
+  },
+  {
+    "date": "2025-01-25",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2025",
+    "month": "01"
+  },
+  {
+    "date": "2025-02-01",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2025",
+    "month": "02"
+  },
+  {
+    "date": "2025-02-08",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2025",
+    "month": "02"
+  },
+  {
+    "date": "2025-02-15",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2025",
+    "month": "02"
+  },
+  {
+    "date": "2025-02-22",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2025",
+    "month": "02"
+  },
+  {
+    "date": "2025-03-01",
+    "percentage": 15.0,
+    "count": 6,
+    "year": "2025",
+    "month": "03"
+  },
+  {
+    "date": "2025-03-08",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2025",
+    "month": "03"
+  },
+  {
+    "date": "2025-03-15",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2025",
+    "month": "03"
+  },
+  {
+    "date": "2025-03-22",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2025",
+    "month": "03"
+  },
+  {
+    "date": "2025-03-29",
+    "percentage": 17.5,
+    "count": 7,
+    "year": "2025",
+    "month": "03"
+  },
+  {
+    "date": "2025-04-05",
+    "percentage": 12.5,
+    "count": 5,
+    "year": "2025",
+    "month": "04"
+  },
+  {
+    "date": "2025-04-12",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2025",
+    "month": "04"
+  },
+  {
+    "date": "2025-04-19",
+    "percentage": 10.0,
+    "count": 4,
+    "year": "2025",
+    "month": "04"
+  },
+  {
+    "date": "2025-04-26",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2025",
+    "month": "04"
+  },
+  {
+    "date": "2025-05-03",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2025",
+    "month": "05"
+  },
+  {
+    "date": "2025-05-10",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2025",
+    "month": "05"
+  },
+  {
+    "date": "2025-05-17",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2025",
+    "month": "05"
+  },
+  {
+    "date": "2025-05-24",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2025",
+    "month": "05"
+  },
+  {
+    "date": "2025-05-31",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2025",
+    "month": "05"
+  },
+  {
+    "date": "2025-06-07",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2025",
+    "month": "06"
+  },
+  {
+    "date": "2025-06-14",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2025",
+    "month": "06"
+  },
+  {
+    "date": "2025-06-21",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2025",
+    "month": "06"
+  },
+  {
+    "date": "2025-06-28",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2025",
+    "month": "06"
+  },
+  {
+    "date": "2025-07-05",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2025",
+    "month": "07"
+  },
+  {
+    "date": "2025-07-12",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2025",
+    "month": "07"
+  },
+  {
+    "date": "2025-07-19",
+    "percentage": 7.5,
+    "count": 3,
+    "year": "2025",
+    "month": "07"
+  },
+  {
+    "date": "2025-07-26",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2025",
+    "month": "07"
+  },
+  {
+    "date": "2025-08-02",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2025",
+    "month": "08"
+  },
+  {
+    "date": "2025-08-09",
+    "percentage": 5.0,
+    "count": 2,
+    "year": "2025",
+    "month": "08"
+  },
+  {
+    "date": "2025-08-16",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2025",
+    "month": "08"
+  },
+  {
+    "date": "2025-08-23",
+    "percentage": 0.0,
+    "count": 0,
+    "year": "2025",
+    "month": "08"
+  },
+  {
+    "date": "2025-08-30",
+    "percentage": 0.0,
+    "count": 0,
+    "year": "2025",
+    "month": "08"
+  },
+  {
+    "date": "2025-09-06",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2025",
+    "month": "09"
+  },
+  {
+    "date": "2025-09-13",
+    "percentage": 0.0,
+    "count": 0,
+    "year": "2025",
+    "month": "09"
+  },
+  {
+    "date": "2025-09-20",
+    "percentage": 0.0,
+    "count": 0,
+    "year": "2025",
+    "month": "09"
+  },
+  {
+    "date": "2025-09-27",
+    "percentage": 0.0,
+    "count": 0,
+    "year": "2025",
+    "month": "09"
+  },
+  {
+    "date": "2025-10-04",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2025",
+    "month": "10"
+  },
+  {
+    "date": "2025-10-11",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2025",
+    "month": "10"
+  },
+  {
+    "date": "2025-10-18",
+    "percentage": 0.0,
+    "count": 0,
+    "year": "2025",
+    "month": "10"
+  },
+  {
+    "date": "2025-10-25",
+    "percentage": 0.0,
+    "count": 0,
+    "year": "2025",
+    "month": "10"
+  },
+  {
+    "date": "2025-11-01",
+    "percentage": 0.0,
+    "count": 0,
+    "year": "2025",
+    "month": "11"
+  },
+  {
+    "date": "2025-11-08",
+    "percentage": 2.5,
+    "count": 1,
+    "year": "2025",
+    "month": "11"
+  }
+]

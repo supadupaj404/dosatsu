@@ -1,0 +1,1892 @@
+{
+  "period": "2000-11-18 to 2025-11-08",
+  "weeks_analyzed": 1304,
+  "overall_avg_percentage": 7.58,
+  "yearly_breakdown": {
+    "2000": {
+      "avg_count": 0,
+      "avg_percentage": 0.0,
+      "max_count": 0,
+      "min_count": 0,
+      "weeks_with_zero": 7,
+      "unique_artists": 0,
+      "unique_songs": 0,
+      "total_appearances": 0,
+      "weeks_analyzed": 7
+    },
+    "2001": {
+      "avg_count": 0,
+      "avg_percentage": 0.0,
+      "max_count": 0,
+      "min_count": 0,
+      "weeks_with_zero": 52,
+      "unique_artists": 0,
+      "unique_songs": 0,
+      "total_appearances": 0,
+      "weeks_analyzed": 52
+    },
+    "2002": {
+      "avg_count": 0.7884615384615384,
+      "avg_percentage": 1.9711538461538463,
+      "max_count": 2,
+      "min_count": 0,
+      "weeks_with_zero": 19,
+      "unique_artists": 1,
+      "unique_songs": 3,
+      "total_appearances": 41,
+      "weeks_analyzed": 52
+    },
+    "2003": {
+      "avg_count": 1.75,
+      "avg_percentage": 4.375,
+      "max_count": 4,
+      "min_count": 0,
+      "weeks_with_zero": 5,
+      "unique_artists": 3,
+      "unique_songs": 7,
+      "total_appearances": 91,
+      "weeks_analyzed": 52
+    },
+    "2004": {
+      "avg_count": 1.0961538461538463,
+      "avg_percentage": 2.7403846153846154,
+      "max_count": 3,
+      "min_count": 0,
+      "weeks_with_zero": 7,
+      "unique_artists": 4,
+      "unique_songs": 5,
+      "total_appearances": 57,
+      "weeks_analyzed": 52
+    },
+    "2005": {
+      "avg_count": 1.679245283018868,
+      "avg_percentage": 4.19811320754717,
+      "max_count": 4,
+      "min_count": 0,
+      "weeks_with_zero": 2,
+      "unique_artists": 4,
+      "unique_songs": 9,
+      "total_appearances": 89,
+      "weeks_analyzed": 53
+    },
+    "2006": {
+      "avg_count": 1.1538461538461537,
+      "avg_percentage": 2.8846153846153846,
+      "max_count": 3,
+      "min_count": 0,
+      "weeks_with_zero": 16,
+      "unique_artists": 3,
+      "unique_songs": 5,
+      "total_appearances": 60,
+      "weeks_analyzed": 52
+    },
+    "2007": {
+      "avg_count": 0.5769230769230769,
+      "avg_percentage": 1.4423076923076923,
+      "max_count": 3,
+      "min_count": 0,
+      "weeks_with_zero": 28,
+      "unique_artists": 4,
+      "unique_songs": 6,
+      "total_appearances": 30,
+      "weeks_analyzed": 52
+    },
+    "2008": {
+      "avg_count": 2.2115384615384617,
+      "avg_percentage": 5.528846153846154,
+      "max_count": 3,
+      "min_count": 1,
+      "weeks_with_zero": 0,
+      "unique_artists": 4,
+      "unique_songs": 8,
+      "total_appearances": 115,
+      "weeks_analyzed": 52
+    },
+    "2009": {
+      "avg_count": 1.1346153846153846,
+      "avg_percentage": 2.8365384615384617,
+      "max_count": 3,
+      "min_count": 0,
+      "weeks_with_zero": 10,
+      "unique_artists": 4,
+      "unique_songs": 7,
+      "total_appearances": 59,
+      "weeks_analyzed": 52
+    },
+    "2010": {
+      "avg_count": 1.8076923076923077,
+      "avg_percentage": 4.519230769230769,
+      "max_count": 4,
+      "min_count": 0,
+      "weeks_with_zero": 12,
+      "unique_artists": 6,
+      "unique_songs": 8,
+      "total_appearances": 94,
+      "weeks_analyzed": 52
+    },
+    "2011": {
+      "avg_count": 3.0943396226415096,
+      "avg_percentage": 7.735849056603773,
+      "max_count": 5,
+      "min_count": 2,
+      "weeks_with_zero": 0,
+      "unique_artists": 7,
+      "unique_songs": 13,
+      "total_appearances": 164,
+      "weeks_analyzed": 53
+    },
+    "2012": {
+      "avg_count": 2.480769230769231,
+      "avg_percentage": 6.201923076923077,
+      "max_count": 4,
+      "min_count": 1,
+      "weeks_with_zero": 0,
+      "unique_artists": 7,
+      "unique_songs": 11,
+      "total_appearances": 129,
+      "weeks_analyzed": 52
+    },
+    "2013": {
+      "avg_count": 1.3461538461538463,
+      "avg_percentage": 3.3653846153846154,
+      "max_count": 4,
+      "min_count": 0,
+      "weeks_with_zero": 9,
+      "unique_artists": 7,
+      "unique_songs": 11,
+      "total_appearances": 70,
+      "weeks_analyzed": 52
+    },
+    "2014": {
+      "avg_count": 0.75,
+      "avg_percentage": 1.875,
+      "max_count": 4,
+      "min_count": 0,
+      "weeks_with_zero": 29,
+      "unique_artists": 5,
+      "unique_songs": 7,
+      "total_appearances": 39,
+      "weeks_analyzed": 52
+    },
+    "2015": {
+      "avg_count": 1.3269230769230769,
+      "avg_percentage": 3.3173076923076925,
+      "max_count": 6,
+      "min_count": 0,
+      "weeks_with_zero": 17,
+      "unique_artists": 8,
+      "unique_songs": 10,
+      "total_appearances": 69,
+      "weeks_analyzed": 52
+    },
+    "2016": {
+      "avg_count": 3.207547169811321,
+      "avg_percentage": 8.018867924528301,
+      "max_count": 12,
+      "min_count": 0,
+      "weeks_with_zero": 1,
+      "unique_artists": 9,
+      "unique_songs": 27,
+      "total_appearances": 170,
+      "weeks_analyzed": 53
+    },
+    "2017": {
+      "avg_count": 5.865384615384615,
+      "avg_percentage": 14.663461538461538,
+      "max_count": 13,
+      "min_count": 2,
+      "weeks_with_zero": 0,
+      "unique_artists": 17,
+      "unique_songs": 31,
+      "total_appearances": 305,
+      "weeks_analyzed": 52
+    },
+    "2018": {
+      "avg_count": 7.596153846153846,
+      "avg_percentage": 18.990384615384617,
+      "max_count": 20,
+      "min_count": 4,
+      "weeks_with_zero": 0,
+      "unique_artists": 21,
+      "unique_songs": 81,
+      "total_appearances": 395,
+      "weeks_analyzed": 52
+    },
+    "2019": {
+      "avg_count": 7.596153846153846,
+      "avg_percentage": 18.990384615384617,
+      "max_count": 11,
+      "min_count": 4,
+      "weeks_with_zero": 0,
+      "unique_artists": 25,
+      "unique_songs": 46,
+      "total_appearances": 395,
+      "weeks_analyzed": 52
+    },
+    "2020": {
+      "avg_count": 5.1923076923076925,
+      "avg_percentage": 12.98076923076923,
+      "max_count": 17,
+      "min_count": 1,
+      "weeks_with_zero": 0,
+      "unique_artists": 21,
+      "unique_songs": 59,
+      "total_appearances": 270,
+      "weeks_analyzed": 52
+    },
+    "2021": {
+      "avg_count": 5.75,
+      "avg_percentage": 14.375,
+      "max_count": 14,
+      "min_count": 1,
+      "weeks_with_zero": 0,
+      "unique_artists": 23,
+      "unique_songs": 62,
+      "total_appearances": 299,
+      "weeks_analyzed": 52
+    },
+    "2022": {
+      "avg_count": 5.9245283018867925,
+      "avg_percentage": 14.81132075471698,
+      "max_count": 13,
+      "min_count": 2,
+      "weeks_with_zero": 0,
+      "unique_artists": 21,
+      "unique_songs": 72,
+      "total_appearances": 314,
+      "weeks_analyzed": 53
+    },
+    "2023": {
+      "avg_count": 5.730769230769231,
+      "avg_percentage": 14.326923076923077,
+      "max_count": 15,
+      "min_count": 2,
+      "weeks_with_zero": 0,
+      "unique_artists": 15,
+      "unique_songs": 50,
+      "total_appearances": 298,
+      "weeks_analyzed": 52
+    },
+    "2024": {
+      "avg_count": 5.788461538461538,
+      "avg_percentage": 14.471153846153847,
+      "max_count": 11,
+      "min_count": 1,
+      "weeks_with_zero": 0,
+      "unique_artists": 23,
+      "unique_songs": 56,
+      "total_appearances": 301,
+      "weeks_analyzed": 52
+    },
+    "2025": {
+      "avg_count": 2.2444444444444445,
+      "avg_percentage": 5.611111111111111,
+      "max_count": 7,
+      "min_count": 0,
+      "weeks_with_zero": 9,
+      "unique_artists": 10,
+      "unique_songs": 20,
+      "total_appearances": 101,
+      "weeks_analyzed": 45
+    }
+  },
+  "year_over_year": [
+    {
+      "period": "2000 \u2192 2001",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 0.0,
+      "prev_avg": 0.0,
+      "curr_avg": 0.0,
+      "unique_artists_change": 0,
+      "total_appearances_change": 0,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 0.0% (2000) \u2192 0.0% (2001) - 0.0pp change"
+    },
+    {
+      "period": "2001 \u2192 2002",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 1.97,
+      "prev_avg": 0.0,
+      "curr_avg": 2.0,
+      "unique_artists_change": 1,
+      "total_appearances_change": 41,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 0.0% (2001) \u2192 2.0% (2002) - +2.0pp change"
+    },
+    {
+      "period": "2002 \u2192 2003",
+      "trend": "\ud83d\udcc8 Growing",
+      "avg_percentage_change": 2.4,
+      "prev_avg": 2.0,
+      "curr_avg": 4.4,
+      "unique_artists_change": 2,
+      "total_appearances_change": 50,
+      "insight": "\ud83d\udcc8 Growing Hip-hop representation: 2.0% (2002) \u2192 4.4% (2003) - +2.4pp change"
+    },
+    {
+      "period": "2003 \u2192 2004",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": -1.63,
+      "prev_avg": 4.4,
+      "curr_avg": 2.7,
+      "unique_artists_change": 1,
+      "total_appearances_change": -34,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 4.4% (2003) \u2192 2.7% (2004) - -1.6pp change"
+    },
+    {
+      "period": "2004 \u2192 2005",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 1.46,
+      "prev_avg": 2.7,
+      "curr_avg": 4.2,
+      "unique_artists_change": 0,
+      "total_appearances_change": 32,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 2.7% (2004) \u2192 4.2% (2005) - +1.5pp change"
+    },
+    {
+      "period": "2005 \u2192 2006",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": -1.31,
+      "prev_avg": 4.2,
+      "curr_avg": 2.9,
+      "unique_artists_change": -1,
+      "total_appearances_change": -29,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 4.2% (2005) \u2192 2.9% (2006) - -1.3pp change"
+    },
+    {
+      "period": "2006 \u2192 2007",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": -1.44,
+      "prev_avg": 2.9,
+      "curr_avg": 1.4,
+      "unique_artists_change": 1,
+      "total_appearances_change": -30,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 2.9% (2006) \u2192 1.4% (2007) - -1.4pp change"
+    },
+    {
+      "period": "2007 \u2192 2008",
+      "trend": "\ud83d\udcc8 Growing",
+      "avg_percentage_change": 4.09,
+      "prev_avg": 1.4,
+      "curr_avg": 5.5,
+      "unique_artists_change": 0,
+      "total_appearances_change": 85,
+      "insight": "\ud83d\udcc8 Growing Hip-hop representation: 1.4% (2007) \u2192 5.5% (2008) - +4.1pp change"
+    },
+    {
+      "period": "2008 \u2192 2009",
+      "trend": "\ud83d\udcc9 Declining",
+      "avg_percentage_change": -2.69,
+      "prev_avg": 5.5,
+      "curr_avg": 2.8,
+      "unique_artists_change": 0,
+      "total_appearances_change": -56,
+      "insight": "\ud83d\udcc9 Declining Hip-hop representation: 5.5% (2008) \u2192 2.8% (2009) - -2.7pp change"
+    },
+    {
+      "period": "2009 \u2192 2010",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 1.68,
+      "prev_avg": 2.8,
+      "curr_avg": 4.5,
+      "unique_artists_change": 2,
+      "total_appearances_change": 35,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 2.8% (2009) \u2192 4.5% (2010) - +1.7pp change"
+    },
+    {
+      "period": "2010 \u2192 2011",
+      "trend": "\ud83d\udcc8 Growing",
+      "avg_percentage_change": 3.22,
+      "prev_avg": 4.5,
+      "curr_avg": 7.7,
+      "unique_artists_change": 1,
+      "total_appearances_change": 70,
+      "insight": "\ud83d\udcc8 Growing Hip-hop representation: 4.5% (2010) \u2192 7.7% (2011) - +3.2pp change"
+    },
+    {
+      "period": "2011 \u2192 2012",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": -1.53,
+      "prev_avg": 7.7,
+      "curr_avg": 6.2,
+      "unique_artists_change": 0,
+      "total_appearances_change": -35,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 7.7% (2011) \u2192 6.2% (2012) - -1.5pp change"
+    },
+    {
+      "period": "2012 \u2192 2013",
+      "trend": "\ud83d\udcc9 Declining",
+      "avg_percentage_change": -2.84,
+      "prev_avg": 6.2,
+      "curr_avg": 3.4,
+      "unique_artists_change": 0,
+      "total_appearances_change": -59,
+      "insight": "\ud83d\udcc9 Declining Hip-hop representation: 6.2% (2012) \u2192 3.4% (2013) - -2.8pp change"
+    },
+    {
+      "period": "2013 \u2192 2014",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": -1.49,
+      "prev_avg": 3.4,
+      "curr_avg": 1.9,
+      "unique_artists_change": -2,
+      "total_appearances_change": -31,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 3.4% (2013) \u2192 1.9% (2014) - -1.5pp change"
+    },
+    {
+      "period": "2014 \u2192 2015",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 1.44,
+      "prev_avg": 1.9,
+      "curr_avg": 3.3,
+      "unique_artists_change": 3,
+      "total_appearances_change": 30,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 1.9% (2014) \u2192 3.3% (2015) - +1.4pp change"
+    },
+    {
+      "period": "2015 \u2192 2016",
+      "trend": "\ud83d\udcc8 Growing",
+      "avg_percentage_change": 4.7,
+      "prev_avg": 3.3,
+      "curr_avg": 8.0,
+      "unique_artists_change": 1,
+      "total_appearances_change": 101,
+      "insight": "\ud83d\udcc8 Growing Hip-hop representation: 3.3% (2015) \u2192 8.0% (2016) - +4.7pp change"
+    },
+    {
+      "period": "2016 \u2192 2017",
+      "trend": "\ud83d\udcc8 Growing",
+      "avg_percentage_change": 6.64,
+      "prev_avg": 8.0,
+      "curr_avg": 14.7,
+      "unique_artists_change": 8,
+      "total_appearances_change": 135,
+      "insight": "\ud83d\udcc8 Growing Hip-hop representation: 8.0% (2016) \u2192 14.7% (2017) - +6.6pp change"
+    },
+    {
+      "period": "2017 \u2192 2018",
+      "trend": "\ud83d\udcc8 Growing",
+      "avg_percentage_change": 4.33,
+      "prev_avg": 14.7,
+      "curr_avg": 19.0,
+      "unique_artists_change": 4,
+      "total_appearances_change": 90,
+      "insight": "\ud83d\udcc8 Growing Hip-hop representation: 14.7% (2017) \u2192 19.0% (2018) - +4.3pp change"
+    },
+    {
+      "period": "2018 \u2192 2019",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 0.0,
+      "prev_avg": 19.0,
+      "curr_avg": 19.0,
+      "unique_artists_change": 4,
+      "total_appearances_change": 0,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 19.0% (2018) \u2192 19.0% (2019) - 0.0pp change"
+    },
+    {
+      "period": "2019 \u2192 2020",
+      "trend": "\ud83d\udcc9 Declining",
+      "avg_percentage_change": -6.01,
+      "prev_avg": 19.0,
+      "curr_avg": 13.0,
+      "unique_artists_change": -4,
+      "total_appearances_change": -125,
+      "insight": "\ud83d\udcc9 Declining Hip-hop representation: 19.0% (2019) \u2192 13.0% (2020) - -6.0pp change"
+    },
+    {
+      "period": "2020 \u2192 2021",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 1.39,
+      "prev_avg": 13.0,
+      "curr_avg": 14.4,
+      "unique_artists_change": 2,
+      "total_appearances_change": 29,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 13.0% (2020) \u2192 14.4% (2021) - +1.4pp change"
+    },
+    {
+      "period": "2021 \u2192 2022",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 0.44,
+      "prev_avg": 14.4,
+      "curr_avg": 14.8,
+      "unique_artists_change": -2,
+      "total_appearances_change": 15,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 14.4% (2021) \u2192 14.8% (2022) - +0.4pp change"
+    },
+    {
+      "period": "2022 \u2192 2023",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": -0.48,
+      "prev_avg": 14.8,
+      "curr_avg": 14.3,
+      "unique_artists_change": -6,
+      "total_appearances_change": -16,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 14.8% (2022) \u2192 14.3% (2023) - -0.5pp change"
+    },
+    {
+      "period": "2023 \u2192 2024",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 0.14,
+      "prev_avg": 14.3,
+      "curr_avg": 14.5,
+      "unique_artists_change": 8,
+      "total_appearances_change": 3,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 14.3% (2023) \u2192 14.5% (2024) - +0.1pp change"
+    },
+    {
+      "period": "2024 \u2192 2025",
+      "trend": "\ud83d\udcc9 Declining",
+      "avg_percentage_change": -8.86,
+      "prev_avg": 14.5,
+      "curr_avg": 5.6,
+      "unique_artists_change": -13,
+      "total_appearances_change": -200,
+      "insight": "\ud83d\udcc9 Declining Hip-hop representation: 14.5% (2024) \u2192 5.6% (2025) - -8.9pp change"
+    }
+  ],
+  "drought_weeks": [
+    {
+      "date": "2000-11-18",
+      "formatted_date": "November 18, 2000",
+      "years_since_last": "First in dataset",
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 18, 2000\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2000-11-25",
+      "formatted_date": "November 25, 2000",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 25, 2000\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2000-12-02",
+      "formatted_date": "December 02, 2000",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 02, 2000\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2000-12-09",
+      "formatted_date": "December 09, 2000",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 09, 2000\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2000-12-16",
+      "formatted_date": "December 16, 2000",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 16, 2000\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2000-12-23",
+      "formatted_date": "December 23, 2000",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 23, 2000\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2000-12-30",
+      "formatted_date": "December 30, 2000",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 30, 2000\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-01-06",
+      "formatted_date": "January 06, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 06, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-01-13",
+      "formatted_date": "January 13, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 13, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-01-20",
+      "formatted_date": "January 20, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 20, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-01-27",
+      "formatted_date": "January 27, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 27, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-02-03",
+      "formatted_date": "February 03, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 03, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-02-10",
+      "formatted_date": "February 10, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 10, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-02-17",
+      "formatted_date": "February 17, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 17, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-02-24",
+      "formatted_date": "February 24, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 24, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-03-03",
+      "formatted_date": "March 03, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 03, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-03-10",
+      "formatted_date": "March 10, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 10, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-03-17",
+      "formatted_date": "March 17, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 17, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-03-24",
+      "formatted_date": "March 24, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 24, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-03-31",
+      "formatted_date": "March 31, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 31, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-04-07",
+      "formatted_date": "April 07, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 07, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-04-14",
+      "formatted_date": "April 14, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 14, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-04-21",
+      "formatted_date": "April 21, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 21, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-04-28",
+      "formatted_date": "April 28, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 28, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-05-05",
+      "formatted_date": "May 05, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 05, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-05-12",
+      "formatted_date": "May 12, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 12, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-05-19",
+      "formatted_date": "May 19, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 19, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-05-26",
+      "formatted_date": "May 26, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 26, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-06-02",
+      "formatted_date": "June 02, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 02, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-06-09",
+      "formatted_date": "June 09, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 09, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-06-16",
+      "formatted_date": "June 16, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 16, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-06-23",
+      "formatted_date": "June 23, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 23, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-06-30",
+      "formatted_date": "June 30, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 30, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-07-07",
+      "formatted_date": "July 07, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 07, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-07-14",
+      "formatted_date": "July 14, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 14, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-07-21",
+      "formatted_date": "July 21, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 21, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-07-28",
+      "formatted_date": "July 28, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 28, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-08-04",
+      "formatted_date": "August 04, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 04, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-08-11",
+      "formatted_date": "August 11, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 11, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-08-18",
+      "formatted_date": "August 18, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 18, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-08-25",
+      "formatted_date": "August 25, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 25, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-09-01",
+      "formatted_date": "September 01, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 01, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-09-08",
+      "formatted_date": "September 08, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 08, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-09-15",
+      "formatted_date": "September 15, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 15, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-09-22",
+      "formatted_date": "September 22, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 22, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-09-29",
+      "formatted_date": "September 29, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 29, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-10-06",
+      "formatted_date": "October 06, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of October 06, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-10-13",
+      "formatted_date": "October 13, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of October 13, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-10-20",
+      "formatted_date": "October 20, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of October 20, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-10-27",
+      "formatted_date": "October 27, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of October 27, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-11-03",
+      "formatted_date": "November 03, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 03, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-11-10",
+      "formatted_date": "November 10, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 10, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-11-17",
+      "formatted_date": "November 17, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 17, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-11-24",
+      "formatted_date": "November 24, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 24, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-12-01",
+      "formatted_date": "December 01, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 01, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-12-08",
+      "formatted_date": "December 08, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 08, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-12-15",
+      "formatted_date": "December 15, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 15, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-12-22",
+      "formatted_date": "December 22, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 22, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2001-12-29",
+      "formatted_date": "December 29, 2001",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 29, 2001\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-01-05",
+      "formatted_date": "January 05, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 05, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-01-12",
+      "formatted_date": "January 12, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 12, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-01-19",
+      "formatted_date": "January 19, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 19, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-01-26",
+      "formatted_date": "January 26, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 26, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-02-02",
+      "formatted_date": "February 02, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 02, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-02-09",
+      "formatted_date": "February 09, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 09, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-02-16",
+      "formatted_date": "February 16, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 16, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-02-23",
+      "formatted_date": "February 23, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 23, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-03-02",
+      "formatted_date": "March 02, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 02, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-03-09",
+      "formatted_date": "March 09, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 09, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-03-16",
+      "formatted_date": "March 16, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 16, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-03-23",
+      "formatted_date": "March 23, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 23, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-03-30",
+      "formatted_date": "March 30, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 30, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-04-06",
+      "formatted_date": "April 06, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 06, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-04-13",
+      "formatted_date": "April 13, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 13, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-04-20",
+      "formatted_date": "April 20, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 20, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-04-27",
+      "formatted_date": "April 27, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 27, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-05-04",
+      "formatted_date": "May 04, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 04, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2002-05-11",
+      "formatted_date": "May 11, 2002",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 11, 2002\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2003-11-22",
+      "formatted_date": "November 22, 2003",
+      "years_since_last": 1.5,
+      "insight": "\ud83d\udea8 For the first time in 1 years, NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 22, 2003\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2003-11-29",
+      "formatted_date": "November 29, 2003",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 29, 2003\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2003-12-06",
+      "formatted_date": "December 06, 2003",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 06, 2003\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2003-12-13",
+      "formatted_date": "December 13, 2003",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 13, 2003\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2003-12-20",
+      "formatted_date": "December 20, 2003",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 20, 2003\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2004-04-10",
+      "formatted_date": "April 10, 2004",
+      "years_since_last": 0.3,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 10, 2004\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2004-04-17",
+      "formatted_date": "April 17, 2004",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 17, 2004\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2004-04-24",
+      "formatted_date": "April 24, 2004",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 24, 2004\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2004-05-01",
+      "formatted_date": "May 01, 2004",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 01, 2004\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2004-05-08",
+      "formatted_date": "May 08, 2004",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 08, 2004\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2004-05-15",
+      "formatted_date": "May 15, 2004",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 15, 2004\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2004-05-22",
+      "formatted_date": "May 22, 2004",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 22, 2004\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2005-09-10",
+      "formatted_date": "September 10, 2005",
+      "years_since_last": 1.3,
+      "insight": "\ud83d\udea8 For the first time in 1 years, NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 10, 2005\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2005-09-24",
+      "formatted_date": "September 24, 2005",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 24, 2005\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-05-20",
+      "formatted_date": "May 20, 2006",
+      "years_since_last": 0.7,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 20, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-05-27",
+      "formatted_date": "May 27, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 27, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-06-03",
+      "formatted_date": "June 03, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 03, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-06-10",
+      "formatted_date": "June 10, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 10, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-06-17",
+      "formatted_date": "June 17, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 17, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-06-24",
+      "formatted_date": "June 24, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 24, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-07-01",
+      "formatted_date": "July 01, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 01, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-07-08",
+      "formatted_date": "July 08, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 08, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-07-15",
+      "formatted_date": "July 15, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 15, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-07-22",
+      "formatted_date": "July 22, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 22, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-07-29",
+      "formatted_date": "July 29, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 29, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-08-05",
+      "formatted_date": "August 05, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 05, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-08-12",
+      "formatted_date": "August 12, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 12, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-08-19",
+      "formatted_date": "August 19, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 19, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-08-26",
+      "formatted_date": "August 26, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 26, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2006-09-02",
+      "formatted_date": "September 02, 2006",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 02, 2006\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-01-27",
+      "formatted_date": "January 27, 2007",
+      "years_since_last": 0.4,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 27, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-02-03",
+      "formatted_date": "February 03, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 03, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-02-10",
+      "formatted_date": "February 10, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 10, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-02-17",
+      "formatted_date": "February 17, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 17, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-02-24",
+      "formatted_date": "February 24, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 24, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-03-03",
+      "formatted_date": "March 03, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 03, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-03-10",
+      "formatted_date": "March 10, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 10, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-03-17",
+      "formatted_date": "March 17, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 17, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-03-24",
+      "formatted_date": "March 24, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 24, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-03-31",
+      "formatted_date": "March 31, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 31, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-04-07",
+      "formatted_date": "April 07, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 07, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-04-14",
+      "formatted_date": "April 14, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 14, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-04-21",
+      "formatted_date": "April 21, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 21, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-04-28",
+      "formatted_date": "April 28, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 28, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-05-05",
+      "formatted_date": "May 05, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 05, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-05-12",
+      "formatted_date": "May 12, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 12, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-05-19",
+      "formatted_date": "May 19, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 19, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-06-02",
+      "formatted_date": "June 02, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 02, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-06-09",
+      "formatted_date": "June 09, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 09, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-06-16",
+      "formatted_date": "June 16, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 16, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-06-23",
+      "formatted_date": "June 23, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 23, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-06-30",
+      "formatted_date": "June 30, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 30, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-07-07",
+      "formatted_date": "July 07, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 07, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-07-14",
+      "formatted_date": "July 14, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 14, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-07-21",
+      "formatted_date": "July 21, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 21, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-07-28",
+      "formatted_date": "July 28, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 28, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-08-04",
+      "formatted_date": "August 04, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 04, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2007-08-11",
+      "formatted_date": "August 11, 2007",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 11, 2007\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2009-06-06",
+      "formatted_date": "June 06, 2009",
+      "years_since_last": 1.8,
+      "insight": "\ud83d\udea8 For the first time in 1 years, NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 06, 2009\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2009-10-31",
+      "formatted_date": "October 31, 2009",
+      "years_since_last": 0.4,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of October 31, 2009\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2009-11-07",
+      "formatted_date": "November 07, 2009",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 07, 2009\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2009-11-14",
+      "formatted_date": "November 14, 2009",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 14, 2009\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2009-11-21",
+      "formatted_date": "November 21, 2009",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 21, 2009\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2009-11-28",
+      "formatted_date": "November 28, 2009",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 28, 2009\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2009-12-05",
+      "formatted_date": "December 05, 2009",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 05, 2009\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2009-12-12",
+      "formatted_date": "December 12, 2009",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 12, 2009\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2009-12-19",
+      "formatted_date": "December 19, 2009",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 19, 2009\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2009-12-26",
+      "formatted_date": "December 26, 2009",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 26, 2009\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-01-02",
+      "formatted_date": "January 02, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 02, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-01-09",
+      "formatted_date": "January 09, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 09, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-01-16",
+      "formatted_date": "January 16, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 16, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-01-23",
+      "formatted_date": "January 23, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 23, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-01-30",
+      "formatted_date": "January 30, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 30, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-02-06",
+      "formatted_date": "February 06, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 06, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-02-13",
+      "formatted_date": "February 13, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 13, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-02-20",
+      "formatted_date": "February 20, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 20, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-02-27",
+      "formatted_date": "February 27, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 27, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-03-06",
+      "formatted_date": "March 06, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 06, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-03-13",
+      "formatted_date": "March 13, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 13, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2010-03-20",
+      "formatted_date": "March 20, 2010",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 20, 2010\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2013-07-06",
+      "formatted_date": "July 06, 2013",
+      "years_since_last": 3.3,
+      "insight": "\ud83d\udea8 For the first time in 3 years, NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 06, 2013\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2013-07-27",
+      "formatted_date": "July 27, 2013",
+      "years_since_last": 0.1,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 27, 2013\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2013-08-03",
+      "formatted_date": "August 03, 2013",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 03, 2013\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2013-08-10",
+      "formatted_date": "August 10, 2013",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 10, 2013\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2013-08-17",
+      "formatted_date": "August 17, 2013",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 17, 2013\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2013-08-24",
+      "formatted_date": "August 24, 2013",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 24, 2013\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2013-08-31",
+      "formatted_date": "August 31, 2013",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 31, 2013\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2013-09-07",
+      "formatted_date": "September 07, 2013",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 07, 2013\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2013-12-07",
+      "formatted_date": "December 07, 2013",
+      "years_since_last": 0.2,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of December 07, 2013\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-01-18",
+      "formatted_date": "January 18, 2014",
+      "years_since_last": 0.1,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 18, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-01-25",
+      "formatted_date": "January 25, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 25, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-02-01",
+      "formatted_date": "February 01, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 01, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-02-08",
+      "formatted_date": "February 08, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 08, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-02-15",
+      "formatted_date": "February 15, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 15, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-02-22",
+      "formatted_date": "February 22, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of February 22, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-03-01",
+      "formatted_date": "March 01, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 01, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-03-08",
+      "formatted_date": "March 08, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 08, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-03-15",
+      "formatted_date": "March 15, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 15, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-03-22",
+      "formatted_date": "March 22, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 22, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-03-29",
+      "formatted_date": "March 29, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 29, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-04-05",
+      "formatted_date": "April 05, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 05, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-04-12",
+      "formatted_date": "April 12, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 12, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-04-19",
+      "formatted_date": "April 19, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 19, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-04-26",
+      "formatted_date": "April 26, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 26, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-05-03",
+      "formatted_date": "May 03, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 03, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-05-10",
+      "formatted_date": "May 10, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 10, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-05-17",
+      "formatted_date": "May 17, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 17, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-05-24",
+      "formatted_date": "May 24, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 24, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-05-31",
+      "formatted_date": "May 31, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 31, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-06-07",
+      "formatted_date": "June 07, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 07, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-06-14",
+      "formatted_date": "June 14, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 14, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-06-21",
+      "formatted_date": "June 21, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 21, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-07-05",
+      "formatted_date": "July 05, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 05, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-07-12",
+      "formatted_date": "July 12, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 12, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-07-26",
+      "formatted_date": "July 26, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 26, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-08-02",
+      "formatted_date": "August 02, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 02, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-08-09",
+      "formatted_date": "August 09, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 09, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2014-08-16",
+      "formatted_date": "August 16, 2014",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 16, 2014\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-03-21",
+      "formatted_date": "March 21, 2015",
+      "years_since_last": 0.6,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 21, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-03-28",
+      "formatted_date": "March 28, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of March 28, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-04-04",
+      "formatted_date": "April 04, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 04, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-04-11",
+      "formatted_date": "April 11, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 11, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-04-18",
+      "formatted_date": "April 18, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 18, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-04-25",
+      "formatted_date": "April 25, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of April 25, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-05-02",
+      "formatted_date": "May 02, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 02, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-05-09",
+      "formatted_date": "May 09, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 09, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-05-16",
+      "formatted_date": "May 16, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 16, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-05-23",
+      "formatted_date": "May 23, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 23, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-05-30",
+      "formatted_date": "May 30, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 30, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-06-06",
+      "formatted_date": "June 06, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of June 06, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-07-18",
+      "formatted_date": "July 18, 2015",
+      "years_since_last": 0.1,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 18, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-07-25",
+      "formatted_date": "July 25, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of July 25, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-08-01",
+      "formatted_date": "August 01, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 01, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-08-08",
+      "formatted_date": "August 08, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 08, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2015-08-15",
+      "formatted_date": "August 15, 2015",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 15, 2015\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2016-05-14",
+      "formatted_date": "May 14, 2016",
+      "years_since_last": 0.8,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of May 14, 2016\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-01-04",
+      "formatted_date": "January 04, 2025",
+      "years_since_last": 8.7,
+      "insight": "\ud83d\udea8 For the first time in 8 years, NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 04, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-08-23",
+      "formatted_date": "August 23, 2025",
+      "years_since_last": 0.6,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 23, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-08-30",
+      "formatted_date": "August 30, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 30, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-09-13",
+      "formatted_date": "September 13, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 13, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-09-20",
+      "formatted_date": "September 20, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 20, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-09-27",
+      "formatted_date": "September 27, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 27, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-10-18",
+      "formatted_date": "October 18, 2025",
+      "years_since_last": 0.1,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of October 18, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-10-25",
+      "formatted_date": "October 25, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of October 25, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-11-01",
+      "formatted_date": "November 01, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 01, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    }
+  ],
+  "turning_points": [],
+  "key_findings": [
+    "Strong growth: Hip-hop representation increased 5.6pp from 2000 to 2025",
+    "Found 223 weeks with zero hip-hop in top 40",
+    "Peak year: 2018 (19.0% average)",
+    "Lowest year: 2000 (0.0% average)"
+  ]
+}

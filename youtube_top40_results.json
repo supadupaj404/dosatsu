@@ -1,0 +1,647 @@
+{
+  "processed": 40,
+  "found": 40,
+  "not_found": 0,
+  "songs": [
+    {
+      "position": 1,
+      "artist": "Taylor Swift",
+      "title": "The Fate Of Ophelia",
+      "youtube_data": {
+        "video_id": "ko70cExuzZM",
+        "video_url": "https://www.youtube.com/watch?v=ko70cExuzZM",
+        "title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-05T23:00:06Z",
+        "view_count": 107407993,
+        "like_count": 1812131,
+        "comment_count": 85098,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 2,
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "title": "Golden",
+      "youtube_data": {
+        "video_id": "htk6MRjmcnQ",
+        "video_url": "https://www.youtube.com/watch?v=htk6MRjmcnQ",
+        "title": "Huntrix - Golden (Lyrics) KPop Demon Hunters",
+        "channel": "7clouds",
+        "published_at": "2025-07-01T12:55:22Z",
+        "view_count": 97594200,
+        "like_count": 573923,
+        "comment_count": 21892,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 3,
+      "artist": "Alex Warren",
+      "title": "Ordinary",
+      "youtube_data": {
+        "video_id": "byxFUKxhT3s",
+        "video_url": "https://www.youtube.com/watch?v=byxFUKxhT3s",
+        "title": "Alex Warren - Ordinary (Lyrics)",
+        "channel": "7clouds",
+        "published_at": "2025-04-30T13:17:52Z",
+        "view_count": 70792310,
+        "like_count": 354852,
+        "comment_count": 13203,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 4,
+      "artist": "Taylor Swift",
+      "title": "Opalite",
+      "youtube_data": {
+        "video_id": "ko70cExuzZM",
+        "video_url": "https://www.youtube.com/watch?v=ko70cExuzZM",
+        "title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-05T23:00:06Z",
+        "view_count": 107407993,
+        "like_count": 1812131,
+        "comment_count": 85098,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 5,
+      "artist": "Olivia Dean",
+      "title": "Man I Need",
+      "youtube_data": {
+        "video_id": "oIv_Y2RPQ_A",
+        "video_url": "https://www.youtube.com/watch?v=oIv_Y2RPQ_A",
+        "title": "Olivia Dean - Man I Need",
+        "channel": "OliviaDeanVEVO",
+        "published_at": "2025-08-15T14:01:14Z",
+        "view_count": 17901215,
+        "like_count": 189482,
+        "comment_count": 3364,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 6,
+      "artist": "Justin Bieber",
+      "title": "Daisies",
+      "youtube_data": {
+        "video_id": "rO-h0U4j20Y",
+        "video_url": "https://www.youtube.com/watch?v=rO-h0U4j20Y",
+        "title": "Justin Bieber - DAISIES ( Official Music Video )",
+        "channel": "Justin Mahone ",
+        "published_at": "2025-07-14T05:17:06Z",
+        "view_count": 16125,
+        "like_count": 162,
+        "comment_count": 9,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 7,
+      "artist": "Kehlani",
+      "title": "Folded",
+      "youtube_data": {
+        "video_id": "KFMYx1TibeQ",
+        "video_url": "https://www.youtube.com/watch?v=KFMYx1TibeQ",
+        "title": "Kehlani - Folded [Official Music Video]",
+        "channel": "Kehlani",
+        "published_at": "2025-06-26T16:00:06Z",
+        "view_count": 36081088,
+        "like_count": 285406,
+        "comment_count": 9068,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 8,
+      "artist": "Taylor Swift",
+      "title": "Elizabeth Taylor",
+      "youtube_data": {
+        "video_id": "ko70cExuzZM",
+        "video_url": "https://www.youtube.com/watch?v=ko70cExuzZM",
+        "title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-05T23:00:06Z",
+        "view_count": 107407993,
+        "like_count": 1812130,
+        "comment_count": 85097,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 9,
+      "artist": "Morgan Wallen",
+      "title": "I Got Better",
+      "youtube_data": {
+        "video_id": "hwUixddbmrQ",
+        "video_url": "https://www.youtube.com/watch?v=hwUixddbmrQ",
+        "title": "Morgan Wallen - I Got Better (Official Music Video)",
+        "channel": "MorganWallenVEVO",
+        "published_at": "2025-10-01T17:00:07Z",
+        "view_count": 7947151,
+        "like_count": 99931,
+        "comment_count": 4835,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 10,
+      "artist": "Leon Thomas",
+      "title": "Mutt",
+      "youtube_data": {
+        "video_id": "U0C1UrO91B8",
+        "video_url": "https://www.youtube.com/watch?v=U0C1UrO91B8",
+        "title": "Leon Thomas, Freddie Gibbs - MUTT (REMIX) Official Video",
+        "channel": "LeonThomasVEVO",
+        "published_at": "2024-09-27T04:00:20Z",
+        "view_count": 8147011,
+        "like_count": 117624,
+        "comment_count": 2323,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 11,
+      "artist": "Taylor Swift",
+      "title": "Father Figure",
+      "youtube_data": {
+        "video_id": "b3hW8c9mmLQ",
+        "video_url": "https://www.youtube.com/watch?v=b3hW8c9mmLQ",
+        "title": "Taylor Swift - Father Figure (Visualizer)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-03T04:17:26Z",
+        "view_count": 6674485,
+        "like_count": 99173,
+        "comment_count": 5488,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 12,
+      "artist": "sombr",
+      "title": "Back To Friends",
+      "youtube_data": {
+        "video_id": "c8zq4kAn_O0",
+        "video_url": "https://www.youtube.com/watch?v=c8zq4kAn_O0",
+        "title": "sombr - back to friends (official video)",
+        "channel": "sombr",
+        "published_at": "2025-04-03T19:00:06Z",
+        "view_count": 67346876,
+        "like_count": 681464,
+        "comment_count": 11169,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 13,
+      "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",
+      "title": "Your Idol",
+      "youtube_data": {
+        "video_id": "TjsNkI4CTiw",
+        "video_url": "https://www.youtube.com/watch?v=TjsNkI4CTiw",
+        "title": "Your Idol",
+        "channel": "Saja Boys - Topic",
+        "published_at": "2025-06-19T10:03:12Z",
+        "view_count": 111683865,
+        "like_count": 1018972,
+        "comment_count": 0,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 14,
+      "artist": "Taylor Swift",
+      "title": "Wi$h Li$t",
+      "youtube_data": {
+        "video_id": "mC54kTYa9oI",
+        "video_url": "https://www.youtube.com/watch?v=mC54kTYa9oI",
+        "title": "Taylor Swift - Wi$h Li$t (Visualizer)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-03T04:01:05Z",
+        "view_count": 6500816,
+        "like_count": 107304,
+        "comment_count": 5876,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 15,
+      "artist": "Morgan Wallen Featuring Tate McRae",
+      "title": "What I Want",
+      "youtube_data": {
+        "video_id": "hNrwlzBeFN8",
+        "video_url": "https://www.youtube.com/watch?v=hNrwlzBeFN8",
+        "title": "Morgan Wallen - What I Want (feat. Tate McRae) (Lyric Video)",
+        "channel": "Morgan Wallen",
+        "published_at": "2025-05-16T04:00:37Z",
+        "view_count": 10376311,
+        "like_count": 56949,
+        "comment_count": 935,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 16,
+      "artist": "Sabrina Carpenter",
+      "title": "Manchild",
+      "youtube_data": {
+        "video_id": "aSugSGCC12I",
+        "video_url": "https://www.youtube.com/watch?v=aSugSGCC12I",
+        "title": "Sabrina Carpenter - Manchild (Official Video)",
+        "channel": "SabrinaCarpenterVEVO",
+        "published_at": "2025-06-06T14:00:06Z",
+        "view_count": 97894247,
+        "like_count": 1475771,
+        "comment_count": 59317,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 17,
+      "artist": "Ravyn Lenae",
+      "title": "Love Me Not",
+      "youtube_data": {
+        "video_id": "cswfR85D7jM",
+        "video_url": "https://www.youtube.com/watch?v=cswfR85D7jM",
+        "title": "Ravyn Lenae - Love Me Not (Official Music Video)",
+        "channel": "Ravyn Lenae",
+        "published_at": "2024-05-03T04:00:06Z",
+        "view_count": 32839098,
+        "like_count": 418663,
+        "comment_count": 7785,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 18,
+      "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",
+      "title": "Soda Pop",
+      "youtube_data": {
+        "video_id": "y7CrvsCIjyo",
+        "video_url": "https://www.youtube.com/watch?v=y7CrvsCIjyo",
+        "title": "Soda Pop",
+        "channel": "Saja Boys - Topic",
+        "published_at": "2025-08-28T00:37:34Z",
+        "view_count": 43058710,
+        "like_count": 450572,
+        "comment_count": 0,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 19,
+      "artist": "Chris Brown Featuring Bryson Tiller",
+      "title": "It Depends",
+      "youtube_data": {
+        "video_id": "OdUBb55Q_xI",
+        "video_url": "https://www.youtube.com/watch?v=OdUBb55Q_xI",
+        "title": "Chris Brown - It Depends ft. Bryson Tiller (Music Video)",
+        "channel": "Hip Hop/R&B Lyrics",
+        "published_at": "2025-08-05T02:00:30Z",
+        "view_count": 1926483,
+        "like_count": 25447,
+        "comment_count": 509,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 20,
+      "artist": "Sabrina Carpenter",
+      "title": "Tears",
+      "youtube_data": {
+        "video_id": "V9vuCByb6js",
+        "video_url": "https://www.youtube.com/watch?v=V9vuCByb6js",
+        "title": "Sabrina Carpenter - Tears (Official Video)",
+        "channel": "SabrinaCarpenterVEVO",
+        "published_at": "2025-08-29T04:00:07Z",
+        "view_count": 50573892,
+        "like_count": 1008015,
+        "comment_count": 42326,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 21,
+      "artist": "Taylor Swift Featuring Sabrina Carpenter",
+      "title": "The Life Of A Showgirl",
+      "youtube_data": {
+        "video_id": "slUhVTAznMo",
+        "video_url": "https://www.youtube.com/watch?v=slUhVTAznMo",
+        "title": "Taylor Swift - The Life of a Showgirl (feat. Sabrina Carpenter) (Visualizer)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-03T04:01:10Z",
+        "view_count": 10500400,
+        "like_count": 229293,
+        "comment_count": 10783,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 22,
+      "artist": "Luke Combs",
+      "title": "Back In The Saddle",
+      "youtube_data": {
+        "video_id": "BCQYxoEdmdI",
+        "video_url": "https://www.youtube.com/watch?v=BCQYxoEdmdI",
+        "title": "Luke Combs - Back in the Saddle (Official Music Video)",
+        "channel": "LukeCombsVEVO",
+        "published_at": "2025-07-25T04:00:06Z",
+        "view_count": 3731744,
+        "like_count": 38708,
+        "comment_count": 1717,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 23,
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "title": "How It's Done",
+      "youtube_data": {
+        "video_id": "rkYuufTXkL8",
+        "video_url": "https://www.youtube.com/watch?v=rkYuufTXkL8",
+        "title": "How It\u2019s Done",
+        "channel": "HUNTR/X - Topic",
+        "published_at": "2025-06-19T10:02:43Z",
+        "view_count": 107811680,
+        "like_count": 1009019,
+        "comment_count": 0,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 24,
+      "artist": "Taylor Swift",
+      "title": "Wood",
+      "youtube_data": {
+        "video_id": "erilCNjng-g",
+        "video_url": "https://www.youtube.com/watch?v=erilCNjng-g",
+        "title": "Taylor Swift - Wood (Visualizer)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-03T04:00:47Z",
+        "view_count": 4614417,
+        "like_count": 84688,
+        "comment_count": 4628,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 25,
+      "artist": "Taylor Swift",
+      "title": "Actually Romantic",
+      "youtube_data": {
+        "video_id": "ShsfUTynzQU",
+        "video_url": "https://www.youtube.com/watch?v=ShsfUTynzQU",
+        "title": "Taylor Swift - Actually Romantic (Visualizer)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-03T04:00:37Z",
+        "view_count": 6327759,
+        "like_count": 107344,
+        "comment_count": 8096,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 26,
+      "artist": "Benson Boone",
+      "title": "Mystical Magical",
+      "youtube_data": {
+        "video_id": "U8QhB8_0t2g",
+        "video_url": "https://www.youtube.com/watch?v=U8QhB8_0t2g",
+        "title": "Benson Boone - Mystical Magical (Official Lyric Video)",
+        "channel": "Benson Boone",
+        "published_at": "2025-04-24T22:00:07Z",
+        "view_count": 36574368,
+        "like_count": 352903,
+        "comment_count": 20795,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 27,
+      "artist": "Tate McRae",
+      "title": "Tit For Tat",
+      "youtube_data": {
+        "video_id": "RYF9jlBruqA",
+        "video_url": "https://www.youtube.com/watch?v=RYF9jlBruqA",
+        "title": "Tate McRae - TIT FOR TAT (Live from the Kia Forum)",
+        "channel": "TateMcRaeVEVO",
+        "published_at": "2025-09-30T20:30:05Z",
+        "view_count": 1994054,
+        "like_count": 59988,
+        "comment_count": 1166,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 28,
+      "artist": "Taylor Swift",
+      "title": "Cancelled!",
+      "youtube_data": {
+        "video_id": "F-5XoUZ42Tc",
+        "video_url": "https://www.youtube.com/watch?v=F-5XoUZ42Tc",
+        "title": "Taylor Swift - CANCELLED! (Lyric Video)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-05T23:40:06Z",
+        "view_count": 6110784,
+        "like_count": 63948,
+        "comment_count": 3635,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 29,
+      "artist": "Taylor Swift",
+      "title": "Eldest Daughter",
+      "youtube_data": {
+        "video_id": "rc6NKSVv2fw",
+        "video_url": "https://www.youtube.com/watch?v=rc6NKSVv2fw",
+        "title": "Taylor Swift - Eldest Daughter (Visualizer)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-03T04:01:08Z",
+        "view_count": 5120975,
+        "like_count": 111697,
+        "comment_count": 4808,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 30,
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "title": "What It Sounds Like",
+      "youtube_data": {
+        "video_id": "YVN14KHWRTo",
+        "video_url": "https://www.youtube.com/watch?v=YVN14KHWRTo",
+        "title": "HUNTR/X - What It Sounds Like (Lyrics) ft. EJAE \u00b7 AUDREY NUNA \u00b7 REI AMI",
+        "channel": "Vibe Music",
+        "published_at": "2025-06-30T00:48:53Z",
+        "view_count": 2710558,
+        "like_count": 24473,
+        "comment_count": 1327,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 31,
+      "artist": "Taylor Swift",
+      "title": "Ruin The Friendship",
+      "youtube_data": {
+        "video_id": "WQCPl5rTMDQ",
+        "video_url": "https://www.youtube.com/watch?v=WQCPl5rTMDQ",
+        "title": "Taylor Swift - Ruin The Friendship (Lyric Video)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-05T23:24:06Z",
+        "view_count": 5335630,
+        "like_count": 56596,
+        "comment_count": 1966,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 32,
+      "artist": "Michael Jackson",
+      "title": "Thriller",
+      "youtube_data": {
+        "video_id": "sOnqjkJTMaA",
+        "video_url": "https://www.youtube.com/watch?v=sOnqjkJTMaA",
+        "title": "Michael Jackson - Thriller (Official 4K Video)",
+        "channel": "michaeljacksonVEVO",
+        "published_at": "2009-10-03T06:51:49Z",
+        "view_count": 1088385923,
+        "like_count": 8442810,
+        "comment_count": 550023,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 33,
+      "artist": "Taylor Swift",
+      "title": "Honey",
+      "youtube_data": {
+        "video_id": "9Sx8MWI8qTU",
+        "video_url": "https://www.youtube.com/watch?v=9Sx8MWI8qTU",
+        "title": "Taylor Swift - Honey (Visualizer)",
+        "channel": "Taylor Swift",
+        "published_at": "2025-10-03T04:00:11Z",
+        "view_count": 4303770,
+        "like_count": 87444,
+        "comment_count": 3934,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 34,
+      "artist": "Mariah the Scientist",
+      "title": "Burning Blue",
+      "youtube_data": {
+        "video_id": "Jx9h3iWudTU",
+        "video_url": "https://www.youtube.com/watch?v=Jx9h3iWudTU",
+        "title": "Mariah the Scientist - Burning Blue (Official Music Video)",
+        "channel": "MTSVEVO",
+        "published_at": "2025-05-08T16:00:06Z",
+        "view_count": 40993991,
+        "like_count": 322027,
+        "comment_count": 8276,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 35,
+      "artist": "Ella Langley",
+      "title": "Choosin' Texas",
+      "youtube_data": {
+        "video_id": "hLOheGDwD_0",
+        "video_url": "https://www.youtube.com/watch?v=hLOheGDwD_0",
+        "title": "Ella Langley - Choosin' Texas (Official Lyric Video)",
+        "channel": "EllaLangleyVEVO",
+        "published_at": "2025-10-17T04:00:53Z",
+        "view_count": 2287356,
+        "like_count": 34821,
+        "comment_count": 1456,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 36,
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "title": "Takedown",
+      "youtube_data": {
+        "video_id": "Ve_a9CXjlQc",
+        "video_url": "https://www.youtube.com/watch?v=Ve_a9CXjlQc",
+        "title": "\u201cTakedown\u201d KPop Demon Hunters (Soundtrack from the Netflix Film) | HUNTR/X",
+        "channel": "Republic Records",
+        "published_at": "2025-06-26T21:33:01Z",
+        "view_count": 29307812,
+        "like_count": 110126,
+        "comment_count": 4017,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 37,
+      "artist": "KATSEYE",
+      "title": "Gabriela",
+      "youtube_data": {
+        "video_id": "CjnB56tSCQI",
+        "video_url": "https://www.youtube.com/watch?v=CjnB56tSCQI",
+        "title": "KATSEYE (\ucea3\uce20\uc544\uc774) \"Gabriela\" Official MV",
+        "channel": "HYBE LABELS",
+        "published_at": "2025-06-20T03:58:07Z",
+        "view_count": 54486305,
+        "like_count": 1768543,
+        "comment_count": 62749,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 38,
+      "artist": "Megan Thee Stallion",
+      "title": "Lover Girl",
+      "youtube_data": {
+        "video_id": "VjtrfCDDelQ",
+        "video_url": "https://www.youtube.com/watch?v=VjtrfCDDelQ",
+        "title": "Megan Thee Stallion - LOVER GIRL [Official Video]",
+        "channel": "Megan Thee Stallion",
+        "published_at": "2025-10-24T17:30:17Z",
+        "view_count": 5265336,
+        "like_count": 219668,
+        "comment_count": 12749,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 39,
+      "artist": "Tame Impala",
+      "title": "Dracula",
+      "youtube_data": {
+        "video_id": "xnP7qKxwzjg",
+        "video_url": "https://www.youtube.com/watch?v=xnP7qKxwzjg",
+        "title": "Tame Impala - Dracula (Official Video)",
+        "channel": "tameimpalaVEVO",
+        "published_at": "2025-09-26T04:00:06Z",
+        "view_count": 7395636,
+        "like_count": 191035,
+        "comment_count": 6620,
+        "last_updated": "2025-11-09"
+      }
+    },
+    {
+      "position": 40,
+      "artist": "Rumi, JINU, EJAE & Andrew Choi",
+      "title": "Free",
+      "youtube_data": {
+        "video_id": "Rn4ykMBSvRc",
+        "video_url": "https://www.youtube.com/watch?v=Rn4ykMBSvRc",
+        "title": "Rumi ft Jinu (Kpop Demon Hunters) 'Free' (Color Coded Lyrics)",
+        "channel": "Jaeguchi",
+        "published_at": "2025-07-30T09:33:06Z",
+        "view_count": 1960021,
+        "like_count": 15340,
+        "comment_count": 700,
+        "last_updated": "2025-11-09"
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "period": "2020-11-14 to 2025-11-08",
+  "weeks_analyzed": 261,
+  "overall_avg_percentage": 12.7,
+  "yearly_breakdown": {
+    "2020": {
+      "avg_count": 1.8571428571428572,
+      "avg_percentage": 4.642857142857143,
+      "max_count": 3,
+      "min_count": 1,
+      "weeks_with_zero": 0,
+      "unique_artists": 5,
+      "unique_songs": 5,
+      "total_appearances": 13,
+      "weeks_analyzed": 7
+    },
+    "2021": {
+      "avg_count": 5.75,
+      "avg_percentage": 14.375,
+      "max_count": 14,
+      "min_count": 1,
+      "weeks_with_zero": 0,
+      "unique_artists": 23,
+      "unique_songs": 62,
+      "total_appearances": 299,
+      "weeks_analyzed": 52
+    },
+    "2022": {
+      "avg_count": 5.9245283018867925,
+      "avg_percentage": 14.81132075471698,
+      "max_count": 13,
+      "min_count": 2,
+      "weeks_with_zero": 0,
+      "unique_artists": 21,
+      "unique_songs": 72,
+      "total_appearances": 314,
+      "weeks_analyzed": 53
+    },
+    "2023": {
+      "avg_count": 5.730769230769231,
+      "avg_percentage": 14.326923076923077,
+      "max_count": 15,
+      "min_count": 2,
+      "weeks_with_zero": 0,
+      "unique_artists": 15,
+      "unique_songs": 50,
+      "total_appearances": 298,
+      "weeks_analyzed": 52
+    },
+    "2024": {
+      "avg_count": 5.788461538461538,
+      "avg_percentage": 14.471153846153847,
+      "max_count": 11,
+      "min_count": 1,
+      "weeks_with_zero": 0,
+      "unique_artists": 23,
+      "unique_songs": 56,
+      "total_appearances": 301,
+      "weeks_analyzed": 52
+    },
+    "2025": {
+      "avg_count": 2.2444444444444445,
+      "avg_percentage": 5.611111111111111,
+      "max_count": 7,
+      "min_count": 0,
+      "weeks_with_zero": 9,
+      "unique_artists": 10,
+      "unique_songs": 20,
+      "total_appearances": 101,
+      "weeks_analyzed": 45
+    }
+  },
+  "year_over_year": [
+    {
+      "period": "2020 \u2192 2021",
+      "trend": "\ud83d\udcc8 Growing",
+      "avg_percentage_change": 9.73,
+      "prev_avg": 4.6,
+      "curr_avg": 14.4,
+      "unique_artists_change": 18,
+      "total_appearances_change": 286,
+      "insight": "\ud83d\udcc8 Growing Hip-hop representation: 4.6% (2020) \u2192 14.4% (2021) - +9.7pp change"
+    },
+    {
+      "period": "2021 \u2192 2022",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 0.44,
+      "prev_avg": 14.4,
+      "curr_avg": 14.8,
+      "unique_artists_change": -2,
+      "total_appearances_change": 15,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 14.4% (2021) \u2192 14.8% (2022) - +0.4pp change"
+    },
+    {
+      "period": "2022 \u2192 2023",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": -0.48,
+      "prev_avg": 14.8,
+      "curr_avg": 14.3,
+      "unique_artists_change": -6,
+      "total_appearances_change": -16,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 14.8% (2022) \u2192 14.3% (2023) - -0.5pp change"
+    },
+    {
+      "period": "2023 \u2192 2024",
+      "trend": "\u27a1\ufe0f Stable",
+      "avg_percentage_change": 0.14,
+      "prev_avg": 14.3,
+      "curr_avg": 14.5,
+      "unique_artists_change": 8,
+      "total_appearances_change": 3,
+      "insight": "\u27a1\ufe0f Stable Hip-hop representation: 14.3% (2023) \u2192 14.5% (2024) - +0.1pp change"
+    },
+    {
+      "period": "2024 \u2192 2025",
+      "trend": "\ud83d\udcc9 Declining",
+      "avg_percentage_change": -8.86,
+      "prev_avg": 14.5,
+      "curr_avg": 5.6,
+      "unique_artists_change": -13,
+      "total_appearances_change": -200,
+      "insight": "\ud83d\udcc9 Declining Hip-hop representation: 14.5% (2024) \u2192 5.6% (2025) - -8.9pp change"
+    }
+  ],
+  "drought_weeks": [
+    {
+      "date": "2025-01-04",
+      "formatted_date": "January 04, 2025",
+      "years_since_last": "First in dataset",
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of January 04, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-08-23",
+      "formatted_date": "August 23, 2025",
+      "years_since_last": 0.6,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 23, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-08-30",
+      "formatted_date": "August 30, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of August 30, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-09-13",
+      "formatted_date": "September 13, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 13, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-09-20",
+      "formatted_date": "September 20, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 20, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-09-27",
+      "formatted_date": "September 27, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of September 27, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-10-18",
+      "formatted_date": "October 18, 2025",
+      "years_since_last": 0.1,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of October 18, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-10-25",
+      "formatted_date": "October 25, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of October 25, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    },
+    {
+      "date": "2025-11-01",
+      "formatted_date": "November 01, 2025",
+      "years_since_last": 0.0,
+      "insight": "\ud83d\udea8 NO hip-hop tracks in Billboard Hot 100 top 40.\n\nWeek of November 01, 2025\n\n#MusicIndustry #HipHop #Billboard"
+    }
+  ],
+  "turning_points": [],
+  "key_findings": [
+    "Found 9 weeks with zero hip-hop in top 40",
+    "Peak year: 2022 (14.8% average)",
+    "Lowest year: 2020 (4.6% average)"
+  ]
+}
