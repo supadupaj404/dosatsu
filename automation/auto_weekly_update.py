@@ -32,7 +32,7 @@ def download_latest_billboard_data():
 
     try:
         # Import the downloader
-        from billboard_downloader import BillboardDataDownloader
+        from src.billboard_downloader import BillboardDataDownloader
 
         logger.info("📥 Downloading latest Billboard Hot 100 data...")
         downloader = BillboardDataDownloader()

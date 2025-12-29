@@ -5,7 +5,7 @@
 
 import json
 from collections import defaultdict
-from comprehensive_genre_mapping import COMPREHENSIVE_GENRE_MAPPING
+from scripts.comprehensive_genre_mapping import COMPREHENSIVE_GENRE_MAPPING
 
 class ComprehensiveGenreAnalyzer:
     """Analyzer using comprehensive mapping"""

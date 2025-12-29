@@ -6,7 +6,7 @@ One-time script to build comprehensive genre database
 
 import json
 from collections import Counter
-from spotify_genre_classifier import SpotifyGenreClassifier
+from src.spotify_genre_classifier import SpotifyGenreClassifier
 
 def get_all_unique_artists(start_year="2000", end_year="2025"):
     """Extract all unique artists from Billboard data"""

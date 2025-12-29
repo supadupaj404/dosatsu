@@ -6,8 +6,8 @@ Tries Spotify first (fast, accurate), falls back to MusicBrainz (comprehensive)
 
 import json
 from typing import Dict, Optional, List
-from spotify_genre_classifier import SpotifyGenreClassifier
-from musicbrainz_classifier import MusicBrainzClassifier
+from src.spotify_genre_classifier import SpotifyGenreClassifier
+from src.musicbrainz_classifier import MusicBrainzClassifier
 
 class HybridClassifier:
     """

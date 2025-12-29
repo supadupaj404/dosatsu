@@ -7,7 +7,7 @@ Generates interesting, shareable insights comparing the two years
 import json
 from collections import Counter, defaultdict
 from datetime import datetime
-from spotify_genre_classifier import SpotifyGenreClassifier
+from src.spotify_genre_classifier import SpotifyGenreClassifier
 
 class YearOverYearAnalyzer:
     """Compare 2024 vs 2025 for interesting insights"""

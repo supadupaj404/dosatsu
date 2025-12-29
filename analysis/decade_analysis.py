@@ -6,7 +6,7 @@ Reveals how genres have risen, dominated, and declined over 67 years
 
 import json
 from collections import Counter, defaultdict
-from spotify_genre_classifier import SpotifyGenreClassifier
+from src.spotify_genre_classifier import SpotifyGenreClassifier
 
 class DecadeAnalyzer:
     """Analyze genre trends by decade"""

@@ -5,7 +5,7 @@ Dōsatsu: Find the Biggest 10-Year Genre Fall-Off in Billboard History
 
 import json
 from collections import defaultdict
-from multi_genre_analyzer import MultiGenreAnalyzer, MULTI_GENRE_MAPPING
+from analysis.multi_genre_analyzer import MultiGenreAnalyzer, MULTI_GENRE_MAPPING
 
 def find_biggest_10year_falloff():
     """Find which genre had the biggest 10-year decline"""

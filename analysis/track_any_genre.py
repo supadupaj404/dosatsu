@@ -5,7 +5,7 @@ Simple interface to analyze any genre trend
 """
 
 import json
-from multi_genre_analyzer import MultiGenreAnalyzer, MULTI_GENRE_MAPPING
+from analysis.multi_genre_analyzer import MultiGenreAnalyzer, MULTI_GENRE_MAPPING
 
 def track_genre(genre_name, years=5):
     """

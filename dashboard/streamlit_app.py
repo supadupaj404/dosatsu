@@ -12,8 +12,8 @@ from datetime import datetime
 import plotly.express as px
 import plotly.graph_objects as go
 import re
-from musicbrainz_credits import MusicBrainzCredits
-from genre_forecaster import GenreForecaster
+from scripts.musicbrainz_credits import MusicBrainzCredits
+from analysis.genre_forecaster import GenreForecaster
 
 # 80s Trading Terminal Color Palette - Gray/White with Amber accents
 COLORS = {
