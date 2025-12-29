@@ -322,21 +322,24 @@ st.markdown("""
 # Load data
 @st.cache_data
 def load_billboard_data():
-    with open('billboard_67years.json', 'r') as f:
+    data_path = os.path.join(project_root, 'data', 'billboard', 'billboard_67years.json')
+    with open(data_path, 'r') as f:
         return json.load(f)
 
 @st.cache_data
 def load_billboard_200_data():
     """Load Billboard 200 album chart data"""
     try:
-        with open('billboard_200_all_time.json', 'r') as f:
+        data_path = os.path.join(project_root, 'data', 'billboard', 'billboard_200_all_time.json')
+        with open(data_path, 'r') as f:
             return json.load(f)
     except FileNotFoundError:
         return None
 
 @st.cache_data
 def load_genre_cache():
-    with open('hybrid_genre_cache.json', 'r') as f:
+    data_path = os.path.join(project_root, 'data', 'billboard', 'hybrid_genre_cache.json')
+    with open(data_path, 'r') as f:
         return json.load(f)
 
 billboard_data = load_billboard_data()
