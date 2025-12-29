@@ -11,12 +11,21 @@ from datetime import datetime, timedelta
 from prophet import Prophet
 from collections import Counter
 import warnings
+import os
 warnings.filterwarnings('ignore')
 
 class GenreForecaster:
     """Forecast genre market share using Prophet"""
 
-    def __init__(self, billboard_data_file='billboard_67years.json', genre_cache_file='hybrid_genre_cache.json'):
+    def __init__(self, billboard_data_file=None, genre_cache_file=None):
+        # Use absolute paths relative to project root
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+        if billboard_data_file is None:
+            billboard_data_file = os.path.join(project_root, 'data', 'billboard', 'billboard_67years.json')
+        if genre_cache_file is None:
+            genre_cache_file = os.path.join(project_root, 'data', 'billboard', 'hybrid_genre_cache.json')
+
         self.billboard_data_file = billboard_data_file
         self.genre_cache_file = genre_cache_file
         self.billboard_data = None
