@@ -5,6 +5,8 @@ Tests both standalone MusicBrainz and hybrid classifier
 """
 
 import json
+import os
+import sys
 from musicbrainz_classifier import MusicBrainzClassifier
 from hybrid_classifier import HybridClassifier
 
@@ -65,9 +67,15 @@ def test_hybrid_classifier():
         "The Four Tops",  # Classic - might fall back to MusicBrainz
     ]
 
-    # Credentials
-    client_id = '62eb62fd0fac433196d32f4aa51f0b6f'
-    client_secret = 'c9b37aa1dfb440efbaf0005bc9cfadb3'
+    # Load Spotify credentials from environment variables
+    client_id = os.getenv('SPOTIFY_CLIENT_ID')
+    client_secret = os.getenv('SPOTIFY_CLIENT_SECRET')
+
+    if not client_id or not client_secret:
+        print("❌ ERROR: Spotify credentials not found!")
+        print("Set SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET environment variables")
+        print("Get credentials at: https://developer.spotify.com/dashboard")
+        sys.exit(1)
 
     hybrid = HybridClassifier(client_id, client_secret)
 

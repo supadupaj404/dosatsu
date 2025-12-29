@@ -5,6 +5,8 @@ Spotify first, MusicBrainz fallback
 """
 
 import json
+import os
+import sys
 from hybrid_classifier import HybridClassifier
 from collections import Counter
 
@@ -53,8 +55,24 @@ def main():
 
     # Initialize hybrid classifier
     print("Step 3: Initializing hybrid classifier...")
-    client_id = '62eb62fd0fac433196d32f4aa51f0b6f'
-    client_secret = 'c9b37aa1dfb440efbaf0005bc9cfadb3'
+
+    # Load Spotify credentials from environment variables
+    client_id = os.getenv('SPOTIFY_CLIENT_ID')
+    client_secret = os.getenv('SPOTIFY_CLIENT_SECRET')
+
+    if not client_id or not client_secret:
+        print("❌ ERROR: Spotify credentials not found!")
+        print()
+        print("Please set the following environment variables:")
+        print("  export SPOTIFY_CLIENT_ID='your_client_id_here'")
+        print("  export SPOTIFY_CLIENT_SECRET='your_client_secret_here'")
+        print()
+        print("Or create a .env file in the project root:")
+        print("  SPOTIFY_CLIENT_ID=your_client_id_here")
+        print("  SPOTIFY_CLIENT_SECRET=your_client_secret_here")
+        print()
+        print("Get credentials at: https://developer.spotify.com/dashboard")
+        sys.exit(1)
 
     hybrid = HybridClassifier(client_id, client_secret)
     print("✓ Hybrid classifier ready")

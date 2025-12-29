@@ -154,19 +154,52 @@ streamlit run dashboard/streamlit_app.py
 
 ### Spotify API (Optional - Enhances Genre Classification)
 
-1. Create a Spotify Developer account at https://developer.spotify.com
-2. Create a new app and get your Client ID and Secret
-3. Create `.streamlit/secrets.toml`:
-```toml
-SPOTIFY_CLIENT_ID = "your_client_id_here"
-SPOTIFY_CLIENT_SECRET = "your_client_secret_here"
+**⚠️ Security Note:** Never commit your Spotify credentials to git. Use environment variables or Streamlit secrets.
+
+#### Step 1: Get Spotify Credentials
+1. Go to https://developer.spotify.com/dashboard
+2. Log in with your Spotify account
+3. Click "Create App"
+4. Fill in:
+   - App name: "Dōsatsu"
+   - Description: "Billboard chart analysis"
+   - Redirect URI: (leave default)
+5. Accept terms and create
+6. Copy your **Client ID** and **Client Secret**
+
+#### Step 2: Configure Credentials
+
+**For command-line scripts:**
+```bash
+# Copy the template
+cp .env.example .env
+
+# Edit .env and add your credentials
+SPOTIFY_CLIENT_ID=your_actual_client_id
+SPOTIFY_CLIENT_SECRET=your_actual_client_secret
 ```
 
-4. Run genre classification:
+**For Streamlit dashboard:**
 ```bash
+# Create secrets file
+mkdir -p dashboard/.streamlit
+nano dashboard/.streamlit/secrets.toml
+
+# Add your credentials:
+SPOTIFY_CLIENT_ID = "your_actual_client_id"
+SPOTIFY_CLIENT_SECRET = "your_actual_client_secret"
+```
+
+#### Step 3: Run Genre Classification
+```bash
+# Load credentials from .env
+source .env
 python3 scripts/classify_remaining_artists.py
 ```
 
+**Note:** The `.env` and `secrets.toml` files are gitignored (never committed).
+
+See [SECURITY.md](SECURITY.md) for credential security best practices.
 See [docs/SPOTIFY_INTEGRATION_GUIDE.md](docs/SPOTIFY_INTEGRATION_GUIDE.md) for details.
 
 ### Weekly Automation (Optional - Keeps Data Fresh)
@@ -270,6 +303,28 @@ Contributions are welcome! Here's how you can help:
 2. **Suggest features** - Open an issue with your idea
 3. **Submit pull requests** - Fork, create a branch, make changes, submit PR
 4. **Improve documentation** - Fix typos, add examples, clarify instructions
+
+### Security for Contributors
+
+**IMPORTANT:** Never commit API credentials or secrets!
+
+- ✅ Use environment variables for all credentials
+- ✅ Check `.gitignore` before committing
+- ✅ Use `.env.example` as a template (never commit actual `.env`)
+- ✅ Review [SECURITY.md](SECURITY.md) before contributing
+
+---
+
+## 🔒 Security
+
+Dōsatsu takes security seriously:
+
+- ✅ All API credentials loaded from environment variables
+- ✅ No hardcoded secrets in code
+- ✅ `.gitignore` protects sensitive files
+- ✅ Read-only API access (Spotify can't access your account)
+
+**Found a security issue?** See [SECURITY.md](SECURITY.md) for responsible disclosure.
 
 ---
 
