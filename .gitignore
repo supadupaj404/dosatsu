@@ -49,10 +49,13 @@ pip-selfcheck.json
 ehthumbs.db
 Thumbs.db
 
-# Data Directory (CRITICAL - exclude all data files)
+# Data Directory (CRITICAL - exclude all data files EXCEPT billboard data for deployment)
 data/
 !data/.gitkeep
+!data/billboard/
 !data/billboard/.gitkeep
+!data/billboard/billboard_67years.json
+!data/billboard/hybrid_genre_cache.json
 !data/cache/.gitkeep
 !data/logs/.gitkeep
 
@@ -62,6 +65,8 @@ data/
 !tsconfig.json
 !requirements.json
 !.vscode/*.json
+!data/billboard/billboard_67years.json
+!data/billboard/hybrid_genre_cache.json
 
 # CSV Files
 *.csv

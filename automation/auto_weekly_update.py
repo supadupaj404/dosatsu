@@ -10,7 +10,8 @@ import sys
 from datetime import datetime
 from pathlib import Path
 import logging
-
+from dotenv import load_dotenv
+load_dotenv()
 # Setup logging
 log_file = Path(__file__).parent / "auto_update.log"
 logging.basicConfig(

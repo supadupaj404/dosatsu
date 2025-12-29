@@ -7,7 +7,7 @@ Spotify first, MusicBrainz fallback
 import json
 import os
 import sys
-from hybrid_classifier import HybridClassifier
+from src.hybrid_classifier import HybridClassifier
 from collections import Counter
 
 def main():
