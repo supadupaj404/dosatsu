@@ -388,7 +388,14 @@ def get_current_chart(chart_type='hot-100'):
 
 def get_genre_distribution(chart):
     """Calculate genre distribution for a chart"""
-    genres = [song['genre'] for song in chart if song.get('genre')]
+    genres = []
+    for song in chart:
+        genre = song.get('genre')
+        if genre:
+            # Handle both string and dict genre formats
+            if isinstance(genre, dict):
+                genre = genre.get('name') or genre.get('genre') or 'Unknown'
+            genres.append(str(genre))
     return Counter(genres)
 
 def get_year_data(year):
