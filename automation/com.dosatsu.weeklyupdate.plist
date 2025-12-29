@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Job Label (unique identifier) -->
+    <key>Label</key>
+    <string>com.dosatsu.weeklyupdate</string>
+
+    <!-- Program to run -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/jeremystevenson/CodeProjects/Active/dosatsu/auto_weekly_update.py</string>
+    </array>
+
+    <!-- Working Directory -->
+    <key>WorkingDirectory</key>
+    <string>/Users/jeremystevenson/CodeProjects/Active/dosatsu</string>
+
+    <!-- Schedule: Every Tuesday at 1:00 PM EST (when Billboard updates) -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Weekday</key>
+        <integer>2</integer> <!-- 2 = Tuesday -->
+        <key>Hour</key>
+        <integer>13</integer> <!-- 1 PM -->
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- Keep job loaded -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!-- Output logs -->
+    <key>StandardOutPath</key>
+    <string>/Users/jeremystevenson/CodeProjects/Active/dosatsu/auto_update_stdout.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/jeremystevenson/CodeProjects/Active/dosatsu/auto_update_stderr.log</string>
+
+    <!-- Environment variables (if needed for Spotify API) -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+
+    <!-- Don't restart on failure (we'll try again next week) -->
+    <key>KeepAlive</key>
+    <false/>
+
+</dict>
+</plist>

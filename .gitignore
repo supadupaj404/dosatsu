@@ -1,8 +1,128 @@
+# Python
 __pycache__/
-*.pyc
-.DS_Store
-*.ipynb_checkpoints
-.env
-.streamlit/secrets.toml
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
 venv/
-.venv/
+env/
+ENV/
+.venv
+pip-selfcheck.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data Directory (CRITICAL - exclude all data files)
+data/
+!data/.gitkeep
+!data/billboard/.gitkeep
+!data/cache/.gitkeep
+!data/logs/.gitkeep
+
+# JSON Data Files (explicitly exclude even if outside data/)
+*.json
+!package.json
+!tsconfig.json
+!requirements.json
+!.vscode/*.json
+
+# CSV Files
+*.csv
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log Files
+logs/
+*.log
+*.log.*
+auto_update.log
+auto_update_stdout.log
+auto_update_stderr.log
+
+# Cache Files
+.cache/
+*.cache
+*_cache.json
+cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+~$*
+*.bak
+*.swp
+
+# macOS Launch Agents (user-specific paths)
+*.plist
+!automation/com.dosatsu.weeklyupdate.plist
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Misc
+*.pid
+*.seed
+*.pid.lock
+.npm
+node_modules/
