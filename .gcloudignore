@@ -1,0 +1,68 @@
+# Google Cloud Build ignore file
+# This controls what gets uploaded to Cloud Build (overrides .gitignore)
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+build/
+dist/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+._*
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Environment files
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Logs
+*.log
+logs/
+
+# Cache (except data cache which might be needed)
+.cache/
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Tests
+tests/
+*.test.py
+
+# Automation scripts
+automation/
+
+# Misc
+tmp/
+temp/
+*.tmp
+*.bak
+
+# IMPORTANT: Do NOT exclude data/ directory
+# The data/billboard files are needed in production
