@@ -11,6 +11,11 @@ from datetime import datetime
 from pathlib import Path
 import logging
 from dotenv import load_dotenv
+
+# Add project root to Python path
+project_root = Path(__file__).parent.parent
+sys.path.insert(0, str(project_root))
+
 load_dotenv()
 # Setup logging
 log_file = Path(__file__).parent / "auto_update.log"
