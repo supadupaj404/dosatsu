@@ -19,6 +19,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy application code
 COPY . .
 
+# Explicitly ensure data directory is included
+COPY data/ ./data/
+
 # Expose port for Cloud Run
 EXPOSE 8080
 
