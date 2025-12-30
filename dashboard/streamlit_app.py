@@ -381,8 +381,15 @@ def get_current_chart(chart_type='hot-100'):
     # Add genres
     for entry in chart:
         artist = entry.get('artist')
-        genre = genre_cache.get(artist, 'Unknown')
-        entry['genre'] = genre
+        artist_data = genre_cache.get(artist)
+        if artist_data:
+            genre = artist_data.get('dosatsu_genre', 'Unknown')
+            # Handle both string and dict genre formats
+            if isinstance(genre, dict):
+                genre = genre.get('name') or genre.get('genre') or 'Unknown'
+        else:
+            genre = 'Unknown'
+        entry['genre'] = str(genre) if genre else 'Unknown'
 
     return most_recent, chart[:40] if chart_type == 'hot-100' else chart[:200]  # Top 40 for Hot 100, Top 200 for albums
 
@@ -417,8 +424,16 @@ def compare_years(year1, year2):
         for chart in year_data.values():
             for song in chart[:40]:
                 artist = song.get('artist')
-                genre = genre_cache.get(artist, 'Unknown')
-                all_genres.append(genre)
+                artist_data = genre_cache.get(artist)
+                if artist_data:
+                    genre = artist_data.get('dosatsu_genre', 'Unknown')
+                    # Handle both string and dict genre formats
+                    if isinstance(genre, dict):
+                        genre = genre.get('name') or genre.get('genre') or 'Unknown'
+                else:
+                    genre = 'Unknown'
+                if genre and genre != 'Unknown':
+                    all_genres.append(str(genre))
         return Counter(all_genres)
 
     dist1 = get_avg_distribution(year1_data)
@@ -478,9 +493,17 @@ def get_decade_analysis():
 
         for song in chart[:40]:
             artist = song.get('artist')
-            genre = genre_cache.get(artist, 'Unknown')
-            if genre != 'Unknown':
-                decades[decade][genre] += 1
+            artist_data = genre_cache.get(artist)
+            if artist_data:
+                genre = artist_data.get('dosatsu_genre', 'Unknown')
+                # Handle both string and dict genre formats
+                if isinstance(genre, dict):
+                    genre = genre.get('name') or genre.get('genre') or 'Unknown'
+            else:
+                genre = 'Unknown'
+
+            if genre and genre != 'Unknown':
+                decades[decade][str(genre)] += 1
 
     # Convert to percentages
     decade_percentages = {}
@@ -856,9 +879,14 @@ def process_query(query):
         for chart in billboard_data.values():
             for song in chart[:40]:
                 artist = song.get('artist')
-                genre = genre_cache.get(artist)
-                if genre:
-                    all_genres.append(genre)
+                artist_data = genre_cache.get(artist)
+                if artist_data:
+                    genre = artist_data.get('dosatsu_genre', 'Unknown')
+                    # Handle both string and dict genre formats
+                    if isinstance(genre, dict):
+                        genre = genre.get('name') or genre.get('genre') or 'Unknown'
+                    if genre and genre != 'Unknown':
+                        all_genres.append(str(genre))
 
         genre_counts = Counter(all_genres)
         total = sum(genre_counts.values())
