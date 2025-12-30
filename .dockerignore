@@ -54,9 +54,10 @@ docs/
 tests/
 *.test.py
 
-# Scripts (not needed in production)
-scripts/
+# Automation scripts (not needed in production)
 automation/
+
+# Note: scripts/ is needed because streamlit_app.py imports from it
 
 # Misc
 tmp/
